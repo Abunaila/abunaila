@@ -1,0 +1,184 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", AR:Zee_Alwan
+http://wweraw.zapto.org:8080/live/medoum1/medoum1/91.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", AR:Zee_Aflam
+http://wweraw.zapto.org:8080/live/medoum1/medoum1/90.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", ( UK )  ZEE TV
+http://wweraw.zapto.org:8080/live/medoum1/medoum1/110.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", UK: 5 STAR
+http://wweraw.zapto.org:8080/live/medoum1/medoum1/313.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", ( UK )  ZEE Action
+http://wweraw.zapto.org:8080/live/medoum1/medoum1/109.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", ( UK )  ZEE Cinema
+http://wweraw.zapto.org:8080/live/medoum1/medoum1/108.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", AR: Zee Alwan
+http://roiduiptv.ddns.net:9000/live/medoum1-xcdr/hbukoRUZwH/1490.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", AR: Zee Aflam
+http://roiduiptv.ddns.net:9000/live/medoum1-xcdr/hbukoRUZwH/1491.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", ( UK )  ZEE TV
+http://wweraw.ddns.net:8080/live/medoum1/medoum1/110.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", UK: 5 STAR
+http://wweraw.ddns.net:8080/live/medoum1/medoum1/313.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", ( UK )  ZEE Action
+http://wweraw.ddns.net:8080/live/medoum1/medoum1/109.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", ( UK )  ZEE Cinema
+http://wweraw.ddns.net:8080/live/medoum1/medoum1/108.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", ( UK )  Sky Movie 3D
+http://wweraw.ddns.net:8080/live/medoum1/medoum1/107.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee (Punjabi)
+http://live.kodisolutions.tv:8080/fredf/fredf/31218
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE ACTION HD
+http://live.kodisolutions.tv:8080/fredf/fredf/31217
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE ANMOL
+http://live.kodisolutions.tv:8080/fredf/fredf/31216
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Anmol Cinema
+http://live.kodisolutions.tv:8080/fredf/fredf/31215
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE ANMOL HINDI
+http://live.kodisolutions.tv:8080/fredf/fredf/31214
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Bangla
+http://live.kodisolutions.tv:8080/fredf/fredf/31213
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Bangla Cinema
+http://live.kodisolutions.tv:8080/fredf/fredf/31212
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE BOLLYWOOD HD
+http://live.kodisolutions.tv:8080/fredf/fredf/31211
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Business
+http://live.kodisolutions.tv:8080/fredf/fredf/31210
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE BUSINESS NEWS HINDI
+http://live.kodisolutions.tv:8080/fredf/fredf/31209
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Cinema Classic
+http://live.kodisolutions.tv:8080/fredf/fredf/31208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Cinema FHD
+http://live.kodisolutions.tv:8080/fredf/fredf/31207
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE CINEMA INTERNATIONAL
+http://live.kodisolutions.tv:8080/fredf/fredf/31206
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Classic
+http://live.kodisolutions.tv:8080/fredf/fredf/31205
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE ETC
+http://live.kodisolutions.tv:8080/fredf/fredf/31204
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE ETC BOLLYWOOD
+http://live.kodisolutions.tv:8080/fredf/fredf/31203
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Foodz
+http://live.kodisolutions.tv:8080/fredf/fredf/31202
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Kannada
+http://live.kodisolutions.tv:8080/fredf/fredf/31201
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Living
+http://live.kodisolutions.tv:8080/fredf/fredf/31200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Marathi
+http://live.kodisolutions.tv:8080/fredf/fredf/31199
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Music Company
+http://live.kodisolutions.tv:8080/fredf/fredf/31198
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE NEWS
+http://live.kodisolutions.tv:8080/fredf/fredf/31197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - ZEE Punjabi HRY
+http://live.kodisolutions.tv:8080/fredf/fredf/31196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Smile
+http://live.kodisolutions.tv:8080/fredf/fredf/31195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Studio HD
+http://live.kodisolutions.tv:8080/fredf/fredf/31194
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Talkies
+http://live.kodisolutions.tv:8080/fredf/fredf/31193
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Tamil TV
+http://live.kodisolutions.tv:8080/fredf/fredf/31192
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee Telugu
+http://live.kodisolutions.tv:8080/fredf/fredf/31191
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee TV FHD
+http://live.kodisolutions.tv:8080/fredf/fredf/31190
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zee TV UK
+http://live.kodisolutions.tv:8080/fredf/fredf/31189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zindagi TV
+http://live.kodisolutions.tv:8080/fredf/fredf/31188
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zing
+http://live.kodisolutions.tv:8080/fredf/fredf/31187
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN - Zoom
+http://live.kodisolutions.tv:8080/fredf/fredf/31186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE TV", IN: ZEE CINEMA
+http://roiduiptv.ddns.net:9000/live/medoum1-xcdr/hbukoRUZwH/2227.ts
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", De: Zee One
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/15340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN: Zee Action
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/8620
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN: Zee Cinema
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/8617
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN: Zee Classic
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/8621
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN: Zee Smile
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/8616
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN: ZeeTV india
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/7552
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN: Zing TV
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/8614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN: Zoom
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/8613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", De: Zee One
+http://esun-tv.ddns.net:6500/12esun0919c6/4twUXJxa4b/15340
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN| Zee Tv
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/14341.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN | Zee Cinema
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/14344.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OFFLINE", IN | Zee Cafe
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/14341.m3u8
+
+
