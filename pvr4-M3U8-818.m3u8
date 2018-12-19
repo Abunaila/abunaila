@@ -1,0 +1,1585 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT1.png" group-title="HRVATSKA",  HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  HRT 1 KODI
+http://daddyiptv.com:8000/live/iso/iso/3440.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT2.png" group-title="HRVATSKA",  HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  HRT 2 KODI
+http://daddyiptv.com:8000/live/iso/iso/3439.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT3.png" group-title="HRVATSKA",  HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  HRT 3 KODI
+http://server.internext.tv:8080/gaurav/gaurav123/36114
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT4.png" group-title="HRVATSKA",  HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  HRT 4 KODI
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt4
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTL.png" group-title="HRVATSKA",  RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  RTL KODI
+http://daddyiptv.com:8000/live/iso/iso/3432.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/SlavonskaTV-HR.png" group-title="HRVATSKA",  Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/z1-logo.png" group-title="HRVATSKA",  Z1
+http://89.212.51.85:8443/udp/239.13.2.231:5000
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/3abn_kids.png" group-title="Djeca",  3ABN Kids
+http://moiptvhls-i.akamaihd.net/hls/live/652318/HQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/23131949-358634207922273-3348237977241165133-n-png.jpg" group-title="Djeca",  A1 Kids
+http://178.132.6.97:8080/A1Kids1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/baby_tv.png" group-title="Djeca",  Baby TV
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762358&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/boomerang.png" group-title="Djeca",  Boomerang
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/723/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/cartoon_network.png" group-title="Djeca",  Cartoon Network
+http://edge.xstreamers.net:8000/6qjoB7XAai/Sm5vfSOXDy/1760
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/CBBCLogo2007.png" group-title="Djeca",  CBBC
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/8494
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/CBeebies.png" group-title="Djeca",  CBeebies
+http://live.kodisolutions.tv:8080/fredf/fredf/1406
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/cb553d91-6ece-5030-49ba-13e0fe665eee-ClassicToons-featured.jpg" group-title="Djeca",  Classic Toons
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/cocuk.png" group-title="Djeca",  COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  HRT 1 KODI
+http://daddyiptv.com:8000/live/iso/iso/3440.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT2.png" group-title="HRVATSKA",  HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  HRT 2 KODI
+http://daddyiptv.com:8000/live/iso/iso/3439.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT3.png" group-title="HRVATSKA",  HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  HRT 3 KODI
+http://server.internext.tv:8080/gaurav/gaurav123/36114
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT4.png" group-title="HRVATSKA",  HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HRVATSKA",  HRT 4 KODI
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt4
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTL.png" group-title="HRVATSKA",  RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Tooncast-logo-svg.png" group-title="Djeca",  Tooncast
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/A1-CINEMA.png" group-title="Film i serije",  A1 Cinema
+http://178.132.6.97:8080/A1Cinema1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/amc_(slo).png" group-title="Film i serije",  AMC
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/axn.png" group-title="Film i serije",  AXN
+http://s1.premiumhd.org:83/test123/test321/90971
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/axn_spin.png" group-title="Film i serije",  AXN Spin
+http://formen1.com:8080/nJAxFkrLr5/VJtw0AdIz8/16838
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/filmboxextra.png" group-title="Film i serije",  FilmBoxExtra
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/34303
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/FOX-Premium-Comedy-Logo-300x98.png" group-title="Film i serije",  FOX Comedy Premium
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Film i serije",  HBO Plus
+http://212.8.253.58:8880/vivian/vivian/2261
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Zone-on-DISH.png" group-title="Film i serije",  HBO Zone HD
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/238
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/klasik_tv.png" group-title="Film i serije",  Klasik TV
+http://edge.xstreamers.net:8000/live/6qjoB7XAai/Sm5vfSOXDy/2261.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/-sky-movies-action-adventure.png" group-title="Film i serije",  Sky Movies Action & Adventure
+http://ndaiptv.com:5999/live/colin/123/2443.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sky-Movies-HD-Sci-Fi.png" group-title="Film i serije",  Sky Movies Sci-Fi & Horror
+http://edge.xstreamers.net:8000/live/6qjoB7XAai/Sm5vfSOXDy/757.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/a1.jpg" group-title="Dokumentarni",  A1 Exclusive
+http://178.132.6.97:8080/A1Exclusive1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/animal_planet_hd.png" group-title="Dokumentarni",  Animal Planet
+http://live.kodisolutions.tv:8080/live/fredf/fredf/15957.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/destination_america.jpg" group-title="Dokumentarni",  Destination America
+http://unlockyourtv.com:8000/billy/billy/541
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Discovery-History-2010.png" group-title="Dokumentarni",  Discovery History
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/8486.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Discovery-Science-HD.png" group-title="Dokumentarni",  Discovery Science
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/8485.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Discovery-Showcase-HD.png" group-title="Dokumentarni",  Discovery Showcase HD
+http://edge.xstreamers.net:8000/live/6qjoB7XAai/Sm5vfSOXDy/3313.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/docubox.png" group-title="Dokumentarni",  DocuBox
+http://m-iptv.net:6204/firatbrusk/firhc57885/3238
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/fashion_tv.png" group-title="Dokumentarni",  Fashion TV
+http://51.15.21.86:25461/live/ahmad/ahmad123/442.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/fashion_tv_hd.png" group-title="Dokumentarni",  Fashion TV HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/fine-living-logo.png" group-title="Dokumentarni",  Fine Living
+http://ott-cdn.ucom.am/s51/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Food-Food--TV-Channel--Logo.jpg" group-title="Dokumentarni",  Food Food TV
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/9375.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/history_channel.png" group-title="Dokumentarni",  History Channel
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/2553.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/italian_fishing_tv.png" group-title="Dokumentarni",  Italian Fishing TV
+http://dr4g0n.servegame.org:8000/live/Peppe_amico/CHVtKQP70w/3374.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/jewellery_maker.jpg" group-title="Dokumentarni",  Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/luxury.jpg" group-title="Dokumentarni",  Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/national_geographic.png" group-title="Dokumentarni",  National Geographic
+http://s1.premiumhd.org:83/test123/test321/91035
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rt_doc.png" group-title="Dokumentarni",  RT Doc
+http://tv.shacktv.com:8080/57978/57978/105026
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tbd.png" group-title="Dokumentarni",  TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tlc.png" group-title="Dokumentarni",  TLC
+http://edge.xstreamers.net:8000/6qjoB7XAai/Sm5vfSOXDy/2523
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/viasat_history.jpg" group-title="Dokumentarni",  Viasat History
+http://88.216.48.14:80/viasathist/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/viasat_nature.png" group-title="Dokumentarni",  Viasat Nature
+http://19b91ba6.suklakakl.site/iptv/6D33SUTAR3AWBN/161/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/yesterday.png" group-title="Dokumentarni",  Yesterday
+http://edge.xstreamers.net:8000/6qjoB7XAai/Sm5vfSOXDy/1723
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Wine-Channel.jpg" group-title="Dokumentarni",  Wine Channel
+http://212.43.97.35:1935/winechannel/winechannel/chunklist_w693696609.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/english_club_tv.png" group-title="Dokumentarni",  English Club TV
+http://ott-cdn.ucom.am/s37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/a1_sport.png" group-title="Sport",  A1 Sport
+http://178.132.6.97:8080/A1Sport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arena_sport_1_srb.png" group-title="Sport",  Arena Sport 1 SRB
+http://46.40.5.99:8000/arena_1_high
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arena_sport_2_srb.png" group-title="Sport",  Arena Sport 2 SRB
+http://46.40.5.99:8000/arena_2_high
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arena_sport_3_srb.png" group-title="Sport",  Arena Sport 3 SRB
+http://46.40.5.99:8000/arena_3_high
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arena_sport_4_srb.png" group-title="Sport",  Arena Sport 4 SRB
+http://46.40.5.99:8000/arena_4_high
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/og-image.jpg" group-title="Sport",  Planet Sport 1
+http://newtv.ml:8000/NijazHalilovic/aPlIijMf1H/9732
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/og-image.jpg" group-title="Sport",  Planet sport 2
+http://newtv.ml:8000/NijazHalilovic/aPlIijMf1H/5901
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/og-image.jpg" group-title="Sport",  Planet Sport 3
+http://newtv.ml:8000/NijazHalilovic/aPlIijMf1H/5893
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tv_partizan_hd.png" group-title="Sport",  TV Partizan HD
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-a1-sports1.png" group-title="Sport",  A1 Sport
+http://178.132.6.97:8080/A1Sport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/149902446962ba4.png" group-title="Sport",  Ad sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/ad-sports2.png" group-title="Sport",  Ad sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/all-sports.png" group-title="Sport",  All Sports
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/bein-sports-3-1udro1xxbhdh71xh0dbug8pe1b.png" group-title="Sport",  Bein sport 3 HD
+http://51.15.21.86:25461/live/zz/12345/1886.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/bein-4.png" group-title="Sport",  Bein sport 4 HD
+http://51.15.21.86:25461/live/zz/12345/1885.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/bein_sport_6.png" group-title="Sport",  Bein sport 6 HD
+http://51.15.21.86:25461/live/zz/12345/1883.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Bein-Sports-8-300x150.png" group-title="Sport",  Bein sport 8 HD
+http://ndaiptv.com:5999/live/colin/123/25.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/bein_sport_9.png" group-title="Sport",  Bein sport 9 HD
+http://51.15.21.86:25461/live/zz/12345/1880.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/bein-sport-la-liga.png" group-title="Sport",  BEIN SPORTS LALIGA HD
+http://live.kodisolutions.tv:8080/fredf/fredf/33565
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/BTSPORT-1-BLACK-RGB.png" group-title="Sport",  BT Sport 1 HD
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/8582
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/BTSPORT-2-BLACK-RGB.png" group-title="Sport",  BT Sport 2 HD
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/8580
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/BTSPORT-3-BLACK-RGB.png" group-title="Sport",  BT Sport 3 HD
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/10166
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/uxpyxq1441049842.png" group-title="Sport",  BT Sport ESPN
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/8577
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/chelsea-tv.png" group-title="Sport",  Chelsea TV
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/8386.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/english_club.png" group-title="Sport",  English Club
+http://ott-cdn.ucom.am/s37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/eurosport_1_hd.png" group-title="Sport",  EuroSport 1 HD
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/4695.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/eurosport_2.png" group-title="Sport",  EuroSport 2 HD
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/4696.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/maxresdefault.jpg" group-title="Sport",  Extreme Sports
+http://persik.by/stream/176/296165/99.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/foxsports-344x264.png" group-title="Sport",  Fox Sports 1
+http://unlockyourtv.com:8000/billy/billy/893
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Fox-Sports-2.png" group-title="Sport",  Fox Sports 2
+http://edge.xstreamers.net:8000/6qjoB7XAai/Sm5vfSOXDy/2183
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/match.svg" group-title="Sport",  Match
+http://persik.by/stream/176/296165/276.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/match_fudbal_1_ru.png" group-title="Sport",  Match Fudbal 1 ru
+http://persik.by/stream/176/296165/10266.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/match_fudbal_2_ru.png" group-title="Sport",  Match Fudbal 2 ru
+http://persik.by/stream/176/296165/10267.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/match_fudbal_3_ru.png" group-title="Sport",  Match Fudbal 3 ru
+http://persik.by/stream/6431/299492/10268.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/mlb_network.png" group-title="Sport",  MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_2/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Movistar-F--tbol-svg.png" group-title="Sport",  Movistar Futbol
+http://edge.xstreamers.net:8000/live/6qjoB7XAai/Sm5vfSOXDy/1499.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Movistar-Golf-svg.png" group-title="Sport",  Movistar Golf
+http://edge.xstreamers.net:8000/live/6qjoB7XAai/Sm5vfSOXDy/2574.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/movistar_moto_gp.png" group-title="Sport",  Movistar Moto GP
+http://edge.xstreamers.net:8000/live/6qjoB7XAai/Sm5vfSOXDy/1505.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/nfl_now.png" group-title="Sport",  NFL Now
+http://tv.shacktv.com:8080/57978/57978/203
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/wsi-imageoptim-racinguk-logo.png" group-title="Sport",  Racing UK
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/real_madrid_tv.png" group-title="Sport",  Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/real_madrid_tv_(english).png" group-title="Sport",  Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/real_madrid_tv_hd.png" group-title="Sport",  Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Logo-Setanta-Sports.png" group-title="Sport",  Setanta Sports
+http://tv.latintvweb.com:25461/juanignaciojz123@gmail.com/UrEGEyFIyW/16729
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sevilla_fc_tv.png" group-title="Sport",  Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sky-Sports-1.jpg" group-title="Sport",  Sky Sports 1 HD
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/12335
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sky-Sports-2.png" group-title="Sport",  Sky Sports 2 HD
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/12332
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sky_sport_austria_hd.jpg" group-title="Sport",  Sky Sports Austria HD
+http://linux-app.tv:6204/karo1/karo1/12354
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sky_sport_bundesliga_1.png" group-title="Sport",  Sky Sports Bundesliga 1
+http://m-iptv.net:6204/firatbrusk/firhc57885/12307
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/sky-sports-football.png" group-title="Sport",  Sky Sports Football
+http://linux-app.tv:6204/karo1/karo1/8523
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sky_sport_golf.png" group-title="Sport",  Sky Sports Golf
+http://linux-app.tv:6204/karo1/karo1/8514
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/SkySports-MIX.png" group-title="Sport",  Sky Sports Mix
+http://linux-app.tv:6204/karo1/karo1/8511
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/SkySportsPremierLeague-201708.png" group-title="Sport",  Sky Sports Premier League
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/8513
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sony-Ten-1-HD.jpg" group-title="Sport",  SONY TEN1 HD
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/8931
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/sony-ten2.png" group-title="Sport",  SONY TEN2 HD
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/8930
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/sony-ten3.png" group-title="Sport",  SONY TEN3 HD
+http://m-iptv.net:6204/wcwztMWZOG/aoDNx6ZQCg/8929
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sport-TV1-HD.png" group-title="Sport",  SPORT TV 1 HD
+http://ndaiptv.com:5999/live/colin/123/900.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/12.png" group-title="Sport",  SPORT TV 2 HD
+http://ndaiptv.com:5999/live/colin/123/901.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sport-TV-3-HD.png" group-title="Sport",  SPORT TV 3 HD
+http://ndaiptv.com:5999/live/colin/123/902.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sportsnet-pacific.png" group-title="Sport",  Sportsnet Pacific
+http://live.kodisolutions.tv:8080/fredf/fredf/25989
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sportsnet-west.png" group-title="Sport",  Sportsnet World
+http://144.217.69.93:25461/yankees/pedroi10@/59183
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Viasatsport.png" group-title="Sport",  Viasat Sport
+http://a9b0398c.iptvzone.net/iptv/3DKS34WUUQPAX6/160/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/WWENetworkLogo.png" group-title="Sport",  WWE Network
+http://unlockyourtv.com:8000/billy/billy/602
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/balkan_music.png" group-title="Ex-Yu Glazba",  Balkan Music
+http://balkanmusictv.ddns.net/live/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/duga_plus_tv.png" group-title="Ex-Yu Glazba",  Duga plus TV
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/roma_music.png" group-title="Ex-Yu Glazba",  Roma Music
+http://185.46.161.3/hls/sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sevdah_tv.png" group-title="Ex-Yu Glazba",  Sevdah TV
+http://178.132.6.97:8080/FR:SEVDAHTV1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/top_sound.png" group-title="Ex-Yu Glazba",  TOP SOUND
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rts_2.png" group-title="Srbija",  RTS 2
+http://178.132.6.97:8080/RTS21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/a1-srbija.jpg" group-title="Srbija",  A1 Srbija HD
+http://178.132.6.97:8080/A1Srbija1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/hram.png" group-title="Srbija",  Hram
+http://178.253.194.75:1935/live/hram.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kcn_1.png" group-title="Srbija",  KCN 1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kcn_2.png" group-title="Srbija",  KCN 2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kcn_3.png" group-title="Srbija",  KCN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/leskovac_tv.png" group-title="Srbija",  Leskovac Tv
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/melos-tv.png" group-title="Srbija",  Melos TV
+https://tinyurl.com/y9d3qctn
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/N1.jpg" group-title="Srbija",  N1 (SRB)
+http://edge.xstreamers.net:8000/6qjoB7XAai/Sm5vfSOXDy/2151
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/novi_pazar.png" group-title="Srbija",  Novi Pazar
+http://178.132.6.97:8080/a1rtvnovipazar1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pirot_tv.png" group-title="Srbija",  Pirot Tv
+http://vps.oneit.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/plus.png" group-title="Srbija",  PLUS
+http://82.214.88.251/hls/krusevac.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/studiob-logo.png" group-title="Srbija",  Studio B
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/yu_planet.png" group-title="Srbija",  YU Planet
+http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/a1-islam.jpg" group-title="Bosna i Hercegovina",  A1 Islam
+http://178.132.6.97:8080/imltvhd1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-a1-world.png" group-title="Bosna i Hercegovina",  A1 World
+http://178.132.6.97:8080/A1World1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/indeksiraj.png" group-title="Bosna i Hercegovina",  A1 Balkan
+http://178.132.6.97:8080/A1Balkan1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/bn_televizija.png" group-title="Bosna i Hercegovina",  BN Televizija
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/face_tv.png" group-title="Bosna i Hercegovina",  Face TV
+http://178.132.6.97:8080/FACETV1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/hema_tv.png" group-title="Bosna i Hercegovina",  Hema Tv
+http://77.238.209.50:8080/hema1
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/News-Bar-TV.png" group-title="Bosna i Hercegovina",  NB
+http://195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/obn.png" group-title="Bosna i Hercegovina",  OBN
+http://daddyiptv.com:8000/live/iso/iso/3435.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/rtv-usk-logo.png" group-title="Bosna i Hercegovina",  RTV USK HD
+http://178.132.6.97:80/RTV:USK1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rtv_zenica.png" group-title="Bosna i Hercegovina",  RTV Zenica
+http://178.132.6.97:8080/RTVZenica1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/tv5-header.png" group-title="Bosna i Hercegovina",  Televizija 5
+http://37.59.21.217:8809/live/tv5web.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tv_slon.png" group-title="Bosna i Hercegovina",  TV Slon
+http://31.47.0.130:8081/
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tv_tk.png" group-title="Bosna i Hercegovina",  TV TK
+http://178.132.6.97:8080/TVTK1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/vikom.png" group-title="Bosna i Hercegovina",  Vikom
+http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/mrt1.png" group-title="Makedonija",  MRT1
+http://178.132.6.97:8080/MRT11/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/mrt2.png" group-title="Makedonija",  MRT2
+http://178.132.6.97:8080/MRT21/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/alsat_m.png" group-title="Makedonija",  Alsat M
+http://edge.xstreamers.net:8000/6qjoB7XAai/Sm5vfSOXDy/2629
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/skyfolk.jpg" group-title="Makedonija",  Folk
+http://www.skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/plus_tv.png" group-title="Makedonija",  Plus Tv
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/shenja.png" group-title="Makedonija",  Shenja
+http://daddyiptv.com:8000/live/iso/iso/3564.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/skyfolk.jpg" group-title="Makedonija",  SkyFolk
+http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rtcg_sat_(l2).png" group-title="Crna Gora",  RTCG Sat (L2)
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/777.png" group-title="Crna Gora",  TV 777
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/jug.png" group-title="Albanija",  JUG
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Kohavision-Logo.png" group-title="Albanija",  KTV
+http://daddyiptv.com:8000/live/iso/iso/3566.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/news24.png" group-title="Albanija",  NEWS24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/opoja.png" group-title="Albanija",  OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2000px-Ora-News--Albania--svg.png" group-title="Albanija",  Ora News
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/report.png" group-title="Albanija",  REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/shenja_tv.png" group-title="Albanija",  SHENJA TV
+http://daddyiptv.com:8000/live/iso/iso/3564.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rtv_zeri.png" group-title="Albanija",  RTV Zeri
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/wedding_channel.png" group-title="Albanija",  Wedding channel
+http://wedding-channel.tv/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Rtk1.png" group-title="Kosovo",  RTK 1
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/rtk2.jpg" group-title="Kosovo",  RTK 2
+http://178.132.6.97:8080/RTK2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTK3.png" group-title="Kosovo",  RTK 3
+http://178.132.6.97:8080/RTK3/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTK4.png" group-title="Kosovo",  RTK 4
+http://178.132.6.97:8080/RTK4/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/mtv.jpg" group-title="Glazba",  MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/mtv_hits.png" group-title="Glazba",  MTV Hits
+http://fde1b6a8.ottv.info/iptv/PFL6SVCZ4FN8YY/153/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/vh1.png" group-title="Glazba",  VH1
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/274.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/california_music_channel.png" group-title="Glazba",  California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/company_tv.png" group-title="Glazba",  Company TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/dot_dance.png" group-title="Glazba",  Dot Dance
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/hit_tv.png" group-title="Glazba",  Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kronehit_tv_hd.png" group-title="Glazba",  KRONEHIT TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/m20.jpg" group-title="Glazba",  M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/mtv_rocks.png" group-title="Glazba",  MTV Rocks
+http://persik.by/stream/6431/299492/10227.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/mtv_dance.png" group-title="Glazba",  MTV Dance
+http://m-iptv.net:6204/firatbrusk/firhc57885/12250
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/music_box_ua.png" group-title="Glazba",  Music Box ua
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Glazba",  Music Box
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/one_by_2_hd.jpg" group-title="Glazba",  One By 2 HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/retro_music.jpg" group-title="Glazba",  Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/virgin_tv.png" group-title="Glazba",  Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/xite_base.jpg" group-title="Glazba",  Xite Base
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/xite_pop.jpg" group-title="Glazba",  Xite Pop
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Antena-Zagreb.jpg" group-title="Radio",  Antena Zagreb Dance
+http://live.antenazagreb.hr:8015/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Antena-Zagreb.jpg" group-title="Radio",  Antena Zagreb Rock
+http://live.antenazagreb.hr:8019/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/B92-radio.jpg" group-title="Radio",  B92 Play Radio
+http://stream.b92.net:7999/radio-b92.mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1428-logo.png" group-title="Radio",  Club Music Radio
+http://cmr-hosting.com:8010/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1894-logo.png" group-title="Radio",  Folky Ton Radio
+http://85.25.135.86:8034/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Hrvatski-radio.jpg" group-title="Radio",  Hrvatski radio
+http://19393.live.streamtheworld.com/PROGRAM1_SC
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2292-logo1447861402.png" group-title="Radio",  Laganini
+http://176.9.59.144:8026/stream
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/narodni-radio.png" group-title="Radio",  Narodni radio
+http://live.narodni.hr:8059/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2359-logo1420817641.png" group-title="Radio",  Narodni Radio Goga
+http://cmr-hosting.com:8440/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Naxi-House-Radio.png" group-title="Radio",  Naxi House Radio
+http://naxidigital-house128.streaming.rs:8000/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/341-logo.jpg" group-title="Radio",  Novi Radio Zadar
+http://s8.iqstreaming.com:8022/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Otvoreni-radio.png" group-title="Radio",  Otvoreni radio
+http://87.98.250.149:8002/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/99-logo.png" group-title="Radio",  Petrinjski Radio
+http://s8.iqstreaming.com:8062/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1272-logo.jpg" group-title="Radio",  Pitomi Radio
+http://50.7.130.2:7774/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-101.png" group-title="Radio",  Radio 101
+http://s8.iqstreaming.com:8006/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Pingvin.png" group-title="Radio",  Radio Pingvin
+http://uzivo4.radiopingvin.com:8187/domaci2
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Bra--.png" group-title="Radio",  Radio BraÄ
+http://s8.iqstreaming.com:8066/stream
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Bravo.jpg" group-title="Radio",  Radio Bravo
+http://176.31.239.83:8173/stream
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/103-logo.jpg" group-title="Radio",  Radio Brod
+http://50.7.129.122:8529/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-BumBum.png" group-title="Radio",  Radio BumBum
+http://185.22.144.158:8000/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Centar.png" group-title="Radio",  Radio Centar
+http://radiocentar.hr:8282/mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/104-logo.png" group-title="Radio",  Radio Dalmacija
+http://5.9.210.22:8000/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Dee-Jay.png" group-title="Radio",  Radio Dee Jay
+http://82.94.204.96:80
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/608-logo.png" group-title="Radio",  Radio Dijaspora
+http://94.249.254.11:9000/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1883-logo1398102813.png" group-title="Radio",  Radio Eurostar
+http://www.radioeurostar.hr:8030/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2635-logo1467405359.png" group-title="Radio",  Radio Evergreen
+http://naxidigital-evergreen128.streaming.rs:8010/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Extrafm.png" group-title="Radio",  Radio EXTRA FM Zagreb
+http://streams.extrafm.hr:8110/;?1543847844132
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/360-logo.jpg" group-title="Radio",  Radio Ilok
+http://37.59.32.115:5172/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/510-logo.png" group-title="Radio",  Radio Istra
+http://s8.iqstreaming.com:8032/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/352-logo.png" group-title="Radio",  Radio Kaj
+http://access2.streamsink.com:8300/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/95-logo.jpg" group-title="Radio",  Radio Koprivnica
+http://194.152.206.205:8000/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Martin.jpg" group-title="Radio",  Radio Martin
+http://genf196.server4you.de:8585/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-max.jpg" group-title="Radio",  Radio Max
+http://85.114.133.45:8010
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/981-logo.jpg" group-title="Radio",  Radio Megaton
+http://5.189.174.66:8006/stream
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-nostalgija.jpg" group-title="Radio",  Radio Nostalgija
+http://nostalgie128.streaming.rs:9250/
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1006-logo1422827981.png" group-title="Radio",  Radio Nova GradiÅ¡ka
+http://comet.shoutca.st:8050/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-OK.png" group-title="Radio",  Radio OK
+http://live7.okradio.net:80/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/319-logo.jpg" group-title="Radio",  Radio Ritam
+http://85.25.135.86:8040/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/274-logo.png" group-title="Radio",  Radio Stubica
+http://radiostubica.hc.hr:7010/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2447-logo1424166881.png" group-title="Radio",  Radio Zabok
+http://access2.streamsink.com:8300/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/359-logo.png" group-title="Radio",  Radio Å½upanja
+http://144.76.172.23:7039/stream
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2274-logo1414583709.jpg" group-title="Radio",  Soundset Plavi
+http://50.7.77.114:8495/;
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/51_radio_tv.jpg" group-title="Italija",  51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/alto_adige_tv.jpeg" group-title="Italija",  Alto Adige TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/automoto_tv.jpg" group-title="Italija",  AutoMoto TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/canale_5.png" group-title="Italija",  Canale 5
+http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8?type=live-cupertino
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/canale_7.jpg" group-title="Italija",  Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/canale_8.jpg" group-title="Italija",  Canale 8
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6738.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-canale-10.png" group-title="Italija",  Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/carina_tv.png" group-title="Italija",  Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/company_tv.png" group-title="Italija",  Company TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/cremona_1.png" group-title="Italija",  Cremona 1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/dmax-it--Custom-.png" group-title="Italija",  DMAX
+https://tinyurl.com/PhoenixReborn894
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/etv_marche.png" group-title="Italija",  eTV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-esperia-tv1-png.jpg" group-title="Italija",  Esperia TV
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/fm_italia.png" group-title="Italija",  FM Italia
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/history_lab.jpg" group-title="Italija",  History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/iris.png" group-title="Italija",  Iris
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/27.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/italia_1.jpg" group-title="Italija",  Italia 1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8?type=live-cupertino
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/italia_2.jpg" group-title="Italija",  Italia 2
+http://dr4g0n.servegame.org:8000/live/Peppe_amico/CHVtKQP70w/3275.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/LA7-old-logo-grey.png" group-title="Italija",  LA 7
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/m20tv.jpg" group-title="Italija",  m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_azzurra.jpg" group-title="Italija",  Radio Azzurra
+http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/b8e17247d2971cab69150bd7ec92bfc7aab9ac87.jpg" group-title="Italija",  R101 TV
+https://tinyurl.com/PhoenixReborn896
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_capital_tivu.png" group-title="Italija",  Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_iglesias.png" group-title="Italija",  Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_italia_tv.png" group-title="Italija",  Radio Italia TV
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6735.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_monte_carlo.png" group-title="Italija",  Radio Monte Carlo
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radionorba_tv.jpg" group-title="Italija",  Radionorba
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-radionumberone-2012.jpg" group-title="Italija",  Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_taormina.png" group-title="Italija",  Radio Taormina
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_virgin_tv.png" group-title="Italija",  Radio Virgin TV
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rai_1.png" group-title="Italija",  Rai 1
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rai_2.jpg" group-title="Italija",  Rai 2
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6346340_,800,1800,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rai_3.png" group-title="Italija",  Rai 3
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8775868_,800,1800,.mp4.csmil/index_1_av.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rai_4.png" group-title="Italija",  Rai 4 HD
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1200px-Rai-5---Logo-2017-svg.png" group-title="Italija",  Rai 5
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/55.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rai_gulp.png" group-title="Italija",  Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rai_yoyo.png" group-title="Italija",  Rai Yoyo
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/157.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2000px-Rai-Movie-HD---Logo-2017-svg.png" group-title="Italija",  Rai Movie HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rai_news_24.jpg" group-title="Italija",  Rai News 24
+http://dr4g0n.servegame.org:8000/live/Peppe_amico/CHVtKQP70w/3228.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2000px-Rai-Premium-Logo--2010--svg.png" group-title="Italija",  Rai Premium
+http://dr4g0n.servegame.org:8000/live/Peppe_amico/CHVtKQP70w/3231.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/rai-scuola.png" group-title="Italija",  Rai Scuola
+http://dr4g0n.servegame.org:8000/live/Peppe_amico/CHVtKQP70w/3227.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Rai-Storia.png" group-title="Italija",  Rai Storia
+http://dr4g0n.servegame.org:8000/live/Peppe_amico/CHVtKQP70w/3222.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Senato-TV.png" group-title="Italija",  Senato TV
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sky-Sport-1-HD-Italy-2010.png" group-title="Italija",  Sky Sports Uno HD
+http://landiptv.live:8080/yuGSs33et/sNg460xDy7/128228
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sky_tg24.png" group-title="Italija",  Sky TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/super-tv.jpg" group-title="Italija",  SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/telearena.png" group-title="Italija",  TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tele_milano.jpg" group-title="Italija",  Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/cop-tvomero-890ea6dc98673f7350ddcb1b2ded5c6f.png" group-title="Italija",  Televomero
+https://tinyurl.com/PhoenixReborn901
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tgcom_24.png" group-title="Italija",  TGcom 24
+http://landiptv.live:8080/yuGSs33et/sNg460xDy7/114118
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/trentino_tv.jpg" group-title="Italija",  Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tsn.png" group-title="Italija",  TSN
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/TSN-Livigno-webtvonlive-com.jpg" group-title="Italija",  TSN Livigno
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/TSN-Tele-Sondrio-News.png" group-title="Italija",  TSN Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tv2000.png" group-title="Italija",  TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/vera-tv.jpg" group-title="Italija",  Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/video_brescia.jpg" group-title="Italija",  Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/video_calabria.png" group-title="Italija",  Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/abc_(est).png" group-title="USA",  ABC (EST)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/atlanta_channel.png" group-title="USA",  Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/beach_tv___30a.jpg" group-title="USA",  Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/beach_tv___pawleys_island.png" group-title="USA",  Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/buffalo_tv.png" group-title="USA",  Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/bowie_tv.jpg" group-title="USA",  Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/byutv.jpg" group-title="USA",  BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/cbs_4_news.png" group-title="USA",  CBS 4 News
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/report-google-enlists-cbs-for-planned-skinny-bundle-promo-image.png" group-title="USA",  CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/free_speech_tv.png" group-title="USA",  Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/fox_5.png" group-title="USA",  Fox 5
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Hillsong-Channel-Logo.png" group-title="USA",  Hillsong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/house_of_representatives.png" group-title="USA",  House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/indiewave.png" group-title="USA",  IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/infowars.jpg" group-title="USA",  InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/jewelry_television.png" group-title="USA",  Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/key_tv.jpeg" group-title="USA",  KEY TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/komo_4_news.2906" group-title="USA",  KOMO 4 NEWS
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/mlb_network.png" group-title="USA",  MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/msnbc.png" group-title="USA",  MSNBC
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/8307
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/music_choice_play.png" group-title="USA",  Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/nbc_5_news.png" group-title="USA",  NBC 5 NEWS
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/7615
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/nbc_10_news.jpg" group-title="USA",  NBC 10 News
+http://s1.premiumhd.org:83/test123/test321/308843
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/nbc_11_news.png" group-title="USA",  NBC 11 News
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/new_orleans_tv.jpg" group-title="USA",  New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/news_12_(the_bronx).jpg" group-title="USA",  News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/news_12_(hudson_valley).png" group-title="USA",  News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/news_12_(long_island).png" group-title="USA",  News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/newschannel_21_(oregon).png" group-title="USA",  NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/newsmax_tv.png" group-title="USA",  Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/nfl_now.png" group-title="USA",  NFL NOW
+http://tv.shacktv.com:8080/57978/57978/203
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/orange_tv.jpg" group-title="USA",  Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pac_12_arizona.png" group-title="USA",  Pac-12 Arizona
+http://m-iptv.net:6204/firatbrusk/firhc57885/10642
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pac_12_bay_area.png" group-title="USA",  PAC-12 Bay Area
+http://m-iptv.net:6204/firatbrusk/firhc57885/10641
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pac_12_los_angeles.png" group-title="USA",  Pac-12 Los Angeles
+http://m-iptv.net:6204/firatbrusk/firhc57885/10640
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pac_12_mountain.png" group-title="USA",  Pac-12 Mountain
+http://m-iptv.net:6204/firatbrusk/firhc57885/10639
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pac_12_oregon.png" group-title="USA",  Pac-12 Oregon
+http://m-iptv.net:6204/firatbrusk/firhc57885/10638
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pluto_tv.png" group-title="USA",  Pluto TV
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pop.jpg" group-title="USA",  Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/qvc.png" group-title="USA",  QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_u_88.7_colombus.png" group-title="USA",  Radio U 88.7 Colombus
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/rev'n.png" group-title="USA",  Rev'n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/seminole_tv.png" group-title="USA",  Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/southeastern_channel.png" group-title="USA",  Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/spydar_tv.png" group-title="USA",  Spydar TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/temple_tv.png" group-title="USA",  Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/the_blaze.jpeg" group-title="USA",  The Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/the_country_network.png" group-title="USA",  The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/the_weather_channel.png" group-title="USA",  The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tstv.png" group-title="USA",  TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tvw.png" group-title="USA",  TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tvw_2.png" group-title="USA",  TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/voice_of_america.png" group-title="USA",  Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/v-tv-channel-6-logo-1.jpg" group-title="USA",  VTV Channel 6 Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/weather_nation.png" group-title="USA",  Weather Nation
+https://tinyurl.com/PhoenixReborn525
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/wccb_news.jpg" group-title="USA",  WCCB News
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/wgn_9_news_(chicago).png" group-title="USA",  WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/wvit_30_news_(hartford).png" group-title="USA",  WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/assemblee_nationale_du_quebec.png" group-title="Kanada",  Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/cbc_news.png" group-title="Kanada",  CBC News
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/ctv_news_live_1.png" group-title="Kanada",  CTV News Live 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/ctv_news_live_2.png" group-title="Kanada",  CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/ctv_news_live_3.png" group-title="Kanada",  CTV News Live 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/ctv_news_live_4.png" group-title="Kanada",  CTV News Live 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1200px-The-Movie-Network-Logo-svg.png" group-title="Kanada",  Movie Network
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/ntv_newfoundland.png" group-title="Kanada",  NTV Newfoundland
+http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/shopping_kanal.jpg" group-title="Kanada",  Shopping kanal
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tele_quebec.png" group-title="Kanada",  Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/movies-tv.png" group-title="Kanada",  TV Movies
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/5-Star-logo-2016.png" group-title="UK",  5 STAR
+http://edge.xstreamers.net:8000/6qjoB7XAai/Sm5vfSOXDy/2532
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/5usa-logo.png" group-title="UK",  5 USA
+http://m-iptv.net:6204/firatbrusk/firhc57885/8594
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arise_news.png" group-title="UK",  Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/al_jazeera_english.png" group-title="UK",  Al Jazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Comedy-Central-2011-Logo-svg.png" group-title="UK",  Comedy Central
+http://m-iptv.net:6204/firatbrusk/firhc57885/8569
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/bbc1hd.jpg" group-title="UK",  BBC1 HD
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/9142
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/dave.png" group-title="UK",  Dave
+http://bestiptvsubscriptiontv.com:8080/stefan/stefan/8576
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/DRama.jpg" group-title="UK",  Drama
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/8482
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/CBN.png" group-title="UK",  CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/channel_4_hd.png" group-title="UK",  Channel 4 HD
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/3991
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/dw.png" group-title="UK",  DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/channel_5.png" group-title="UK",  Channel 5 HD
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/8491
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/e!.jpg" group-title="UK",  E!
+http://ndaiptv.com:5999/live/colin/123/2518.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/myhit.jpg" group-title="UK",  MyHit
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/nrj_hits.png" group-title="UK",  NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sky-Arts-2015.png" group-title="UK",  Sky Arts
+http://bestiptvsubscriptiontv.com:8080/stefan/stefan/8554
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sky_news.png" group-title="UK",  Sky News
+http://ndaiptv.com:5999/live/colin/123/2432.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Blaze-logo-2016.png" group-title="UK",  Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1-2-3-tv.png" group-title="NjemaÄka",  1-2-3 TV
+https://tinyurl.com/PhoenixReborn781
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/440px-A-tv---fernsehen-f--r-augsburg-und-schwaben-HD-Logo-2017.png" group-title="NjemaÄka",  a.tv HD
+https://tinyurl.com/PhoenixReborn782
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1777-m3t1w800h450q40s1v26892-s20170530-profile.png" group-title="NjemaÄka",  AllgÃ¤u.tv
+https://tinyurl.com/PhoenixReborn783
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/440px-A-tv---fernsehen-f--r-augsburg-und-schwaben-HD-Logo-2017.png" group-title="NjemaÄka",  Augsburger TV
+https://tinyurl.com/PhoenixReborn852
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Baden-TV-Logo.png" group-title="NjemaÄka",  Baden TV
+https://tinyurl.com/PhoenixReborn784
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/BibelTV-Logo2017-positiv-RGB.png" group-title="NjemaÄka",  Bibel TV HD
+https://tinyurl.com/PhoenixReborn785
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Blizz.png" group-title="NjemaÄka",  Blizz TV
+https://tinyurl.com/PhoenixReborn786
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-facebook4-400x400.png" group-title="NjemaÄka",  Campus TV Magdeburg
+https://tinyurl.com/PhoenixReborn788
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1200px-Deutsche-Welle-symbol-2012-svg.png" group-title="NjemaÄka",  Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/dresden-fernsehen.jpg" group-title="NjemaÄka",  Dresden Fersehen
+http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Elbekanallogo-Homepage-komplett-Blau.png" group-title="NjemaÄka",  ElbeKanal
+https://tinyurl.com/PhoenixReborn789
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-erztv-png.jpg" group-title="NjemaÄka",  erz TV
+https://tinyurl.com/PhoenixReborn790
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/FAMILYTV.png" group-title="NjemaÄka",  Family TV
+https://tinyurl.com/PhoenixReborn791
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Folx-TV.png" group-title="NjemaÄka",  Folx TV
+https://tinyurl.com/PhoenixReborn792
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Logo-Franken-Fernsehen.png" group-title="NjemaÄka",  Franken TV
+https://tinyurl.com/PhoenixReborn793
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/FRF-300.png" group-title="NjemaÄka",  FRF1
+https://tinyurl.com/PhoenixReborn794
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/tv-halle-logo-220x140.png" group-title="NjemaÄka",  Halle TV
+https://tinyurl.com/PhoenixReborn796
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Health-TV.png" group-title="NjemaÄka",  health.tv
+https://tinyurl.com/PhoenixReborn797
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2000px-Ehemaliges-Logo-HR-svg.png" group-title="NjemaÄka",  Hessischer Rundfunk
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HSE24-svg.png" group-title="NjemaÄka",  HSE24
+https://tinyurl.com/PhoenixReborn799
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Hse24-extra-2013.png" group-title="NjemaÄka",  HSE24 Extra
+https://tinyurl.com/PhoenixReborn800
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/INTV.png" group-title="NjemaÄka",  InTV
+https://tinyurl.com/PhoenixReborn801
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Isar-TV.png" group-title="NjemaÄka",  Isar TV
+https://tinyurl.com/PhoenixReborn802
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2000px-Logo-K-TV-svg.png" group-title="NjemaÄka",  K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/kabeljournal.png" group-title="NjemaÄka",  Kabel journal
+https://tinyurl.com/PhoenixReborn803
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2018-KMDLogo.png" group-title="NjemaÄka",  Kultur MD
+https://tinyurl.com/PhoenixReborn804
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Leipzig-Fernsehen.jpg" group-title="NjemaÄka",  Leipzig Fernsehen
+https://tinyurl.com/PhoenixReborn806
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/light-channel.jpg" group-title="NjemaÄka",  Light Channel
+https://tinyurl.com/PhoenixReborn776
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/27390.jpg" group-title="NjemaÄka",  Main.TV
+https://tinyurl.com/PhoenixReborn807
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/MDF1.png" group-title="NjemaÄka",  MDF.1
+https://tinyurl.com/PhoenixReborn808
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/5939-jpg.png" group-title="NjemaÄka",  Munchen TV
+https://tinyurl.com/PhoenixReborn844
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/ndr-fernsehen-nds-hd1.png" group-title="NjemaÄka",  NDR Fernsehen HD
+https://tinyurl.com/PhoenixReborn810
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/163524.jpg" group-title="NjemaÄka",  noa4
+https://tinyurl.com/PhoenixReborn811
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/l-1851-ee3a78ff4cfbf4327fa81501cec5007a.png" group-title="NjemaÄka",  Oberpfalz TV
+https://tinyurl.com/PhoenixReborn812
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/OKDESSAU.png" group-title="NjemaÄka",  OK Dessau
+https://tinyurl.com/PhoenixReborn814
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo.png" group-title="NjemaÄka",  OK Mainz
+https://tinyurl.com/PhoenixReborn815
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/OK-Merseburg.jpg" group-title="NjemaÄka",  OK Merseburg
+https://tinyurl.com/PhoenixReborn816
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/OKSALZWEDEL.png" group-title="NjemaÄka",  OK Salzwedel
+https://tinyurl.com/PhoenixReborn817
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/ok-logo-gr----e-500-300x118.jpg" group-title="NjemaÄka",  OK Stendal
+https://tinyurl.com/PhoenixReborn818
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/OK-S--dwestpfalz.png" group-title="NjemaÄka",  OK SÃ¼dwestpfalz
+https://tinyurl.com/PhoenixReborn819
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/OK-Wernigerode.jpg" group-title="NjemaÄka",  OK Wernigerode
+https://tinyurl.com/PhoenixReborn820
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/OK4.png" group-title="NjemaÄka",  OK4
+https://tinyurl.com/PhoenixReborn822
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/OK54.png" group-title="NjemaÄka",  OK54
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/14641033785186.jpg" group-title="NjemaÄka",  OKTO
+https://tinyurl.com/PhoenixReborn824
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Pearl-tv-4c.jpg" group-title="NjemaÄka",  pearl.tv
+https://tinyurl.com/PhoenixReborn825
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-punktum-fernsehen6.png" group-title="NjemaÄka",  PUNKTum
+https://tinyurl.com/PhoenixReborn826
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/QVC-logo-2015.png" group-title="NjemaÄka",  QVC
+https://tinyurl.com/PhoenixReborn778
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/qvctwo-2400-color-dark-light.png" group-title="NjemaÄka",  QVC2
+https://tinyurl.com/PhoenixReborn779
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/QVC-STYLE-LOGO.png" group-title="NjemaÄka",  QVC Style
+https://tinyurl.com/PhoenixReborn780
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1792.png" group-title="NjemaÄka",  RAN 1
+https://tinyurl.com/PhoenixReborn827
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/csm-RBW-928844713e.png" group-title="NjemaÄka",  RB Wittenberg
+https://tinyurl.com/PhoenixReborn828
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Regio-TV-svg.png" group-title="NjemaÄka",  Regio TV
+https://tinyurl.com/PhoenixReborn829
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/teaserbox-33767218.JPG" group-title="NjemaÄka",  RFHarz
+https://tinyurl.com/PhoenixReborn830
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2000px-RFO-Senderlogo-svg.png" group-title="NjemaÄka",  Rfo
+https://tinyurl.com/PhoenixReborn831
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RNF-Logo-svg.png" group-title="NjemaÄka",  Rhein Neckar Fernsehen
+https://tinyurl.com/PhoenixReborn832
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/7fc6447e8ed3cdba70f50c68d8127bd4.jpg" group-title="NjemaÄka",  RTL
+http://5.135.92.138:58143/out/u/115_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/1200px-RTL-II-Logo-ab-Sommer-2009-svg.png" group-title="NjemaÄka",  RTL 2
+http://5.135.92.138:58143/out/u/119_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sonnenklar-TV-HD.png" group-title="NjemaÄka",  Sonnenklar.TV HD
+https://tinyurl.com/PhoenixReborn834
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/33ccbc5d-d826-49f1-93c0-4f09010fb69c.jpg" group-title="NjemaÄka",  SWR 3 radio
+https://tinyurl.com/PhoenixReborn835
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NjemaÄka",  Sylt 1
+https://tinyurl.com/PhoenixReborn836
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Tagesschau24HD-svg.png" group-title="NjemaÄka",  Tagesschau 24 HD
+https://tinyurl.com/PhoenixReborn837
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/TRP1-alpha1.png" group-title="NjemaÄka",  Tele Regional Passau 1
+https://tinyurl.com/PhoenixReborn838
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/s80501q.png" group-title="NjemaÄka",  TV Aktuell
+https://tinyurl.com/PhoenixReborn839
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/d98d67b79aa09b3a285309262e2fe899-logo-blkt-tv-regional-738-c-90.png" group-title="NjemaÄka",  TV Burgenlandkreis
+https://tinyurl.com/PhoenixReborn840
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/vox-logo.png" group-title="NjemaÄka",  VOX
+http://5.135.92.138:58143/out/u/123_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/AXN-White-Polska.png" group-title="Poljska",  AXN White Polska
+http://s1.premiumhd.org:83/test123/test321/322668
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Nr8cyv-F.jpeg" group-title="Poljska",  Czwolka webcam radio
+http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Discovery-life-logo.png" group-title="Poljska",  Discovery Life Polska HD
+http://vip.one-iptv.com:25443/live/bidar/1234/30565.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/FilmBox-Premium.png" group-title="Poljska",  Filmbox Premium Polska HD
+http://live.kodisolutions.tv:8080/fredf/fredf/26834
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/FOKUS.png" group-title="Poljska",  Fokus TV
+https://stream.smcdn.pl/fokustv-p/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-retina.png" group-title="Poljska",  Hope Channel
+http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/imperiumTV.png" group-title="Poljska",  Imperium TV Gliwice
+https://stream.tvimperium.pl/ram/hls_adaptive/tvimperium_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Polsat-Jim-Jam.png" group-title="Poljska",  JimJam Polska
+http://plusx.tv/m3u8f3.php?token=dfc54e7&name=120
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/opoka-tv.png" group-title="Poljska",  Opoka TV
+http://94.130.255.149:8080/hls/opoka_tv_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Planete---2014--n-v--.png" group-title="Poljska",  Planete+ Polska HD
+http://plusx.tv/m3u8f3.php?token=dfc54e7&name=111
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/STARSTV.png" group-title="Poljska",  Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Teletoon--HD--2014--n-v--.png" group-title="Poljska",  Teletoon+ HD Polska
+http://ipshka01.dyndns.tv/0753/mpegts?token=0d3932a55ddc7f4d127cfbf13303
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sz--stkawhd.png" group-title="Poljska",  TV6 Polska HD
+http://amiptv.ddns.net:25461/live/AM/AM/35464.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/TV-Republika-2017.png" group-title="Poljska",  TV Republika
+http://m1-tvrepublika.4vod.tv/smil%3apremium_abr.ism/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Tv-trwam-1-.png" group-title="Poljska",  TV Trwam
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/uid-60a4dda029f35dd67bf49b6e37735ae71450612589695-width-800-play-0-pos-0-gs-0.jpg" group-title="Poljska",  TVP3 Warszawa
+http://daddyiptv.com:8000/live/iso/iso/2268.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/index.png" group-title="Poljska",  TVP Historia
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/10708.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/timthumb-php.png" group-title="Poljska",  TVP Info
+http://s1.premiumhd.org:83/test123/test321/322816
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/0ecfd007900ea94ba75641c8ff66cafc.png" group-title="Poljska",  TVP Kultura
+http://s1.premiumhd.org:83/test123/test321/322817
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/TVP-Sport-logo-svg.png" group-title="Poljska",  TVP Sport
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/10699.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/tvt.jpg" group-title="Poljska",  TVT
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/al_jazeera_balkans.png" group-title="Vijesti",  Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/220px-Al-Jazeera-Balkans.png" group-title="Vijesti",  AL Jazzera Balkans
+http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/bloomberg.png" group-title="Vijesti",  Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/cnbc.png" group-title="Vijesti",  CNBC
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11409.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/cbs_news.png" group-title="Vijesti",  CBS News
+http://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/2000px-CGTN-svg.png" group-title="Vijesti",  CGTN
+http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/cnn.png" group-title="Vijesti",  CNN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/deutche_w.png" group-title="Vijesti",  Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/msnbc.png" group-title="Vijesti",  MSNBC
+http://iptv-area-51.tv:2095/nativetidu/8Remedy98/8307
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sky_sport_news.png" group-title="Vijesti",  Sky Sport News
+http://ndaiptv.com:5999/live/colin/123/2424.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/uk-sky-news.png" group-title="Vijesti",  UK Sky News HD
+http://ndaiptv.com:5999/live/colin/123/2432.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/trt_world.png" group-title="Vijesti",  TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/bbc-world-news.jpg" group-title="Vijesti",  BBC World News
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11467.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Babestation.png" group-title="XXX",  Babestation
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/BLUE-HUSTLER.jpg" group-title="XXX",  Blue Hustler
+http://185.93.3.83:5014/play/a004
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/BRAZZERS-TV.png" group-title="XXX",  BRAZZERS TV
+http://4f8b3417.shukinuki.website/iptv/AWDPGDTBE3MCNY/910/index.m3u
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/bunga-bunga.png" group-title="XXX",  Bunga Bunga
+http://5.135.92.138:58143/out/u/109_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/DUSK-LOGO-BLACK655.jpg" group-title="XXX",  Dusk
+http://tv.shacktv.com:8080/57978/57978/61072
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/evil-angel-5089aa66d42ec.png" group-title="XXX",  Evil Angel
+http://live.eternaltv.net:25461/tvmonday/9q9aU8aDm0/35514
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HustlerTV.png" group-title="XXX",  Hustler
+http://primestreams.tv:826/jwagner/jwagner/40738
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/logo-jasmin-tv1.png" group-title="XXX",  Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX",  Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Olala-tv.png" group-title="XXX",  O-la-la
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/12043.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/erotic-logo.png" group-title="XXX",  Pink Erotic 1
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/151.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/erotic2-logo.png" group-title="XXX",  Pink Erotic 2
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/152.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/erotic3.png" group-title="XXX",  Pink Erotic 3
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/153.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/erotic4.png" group-title="XXX",  Pink Erotic 4
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/196.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Play-Boy-TV-logo-svg.png" group-title="XXX",  Playboy TV
+http://a.srvbr.me:8880/live/silas1/silas1/516.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/REDLIGHT-HD-LOGO.png" group-title="XXX",  Redlight HD
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/12038.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/sex-reduz-fundo-claro.jpg" group-title="XXX",  Sextreme
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/767
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Logo-venus-out-color.jpg" group-title="XXX",  Venus
+http://painel.ebanonet.com.br:25461/leoma12/leoma12/6081
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/visit-x-tv.png" group-title="XXX",  Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/sat-expert-2016-12-22-15-05-17.jpg" group-title="XXX",  Ð¨Ð°Ð»ÑÐ½
+http://7a405468.ottv.biz/iptv/HSVQWVHH2EFTQE/922/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Youporn-tv.png" group-title="XXX",  YouPorn 24H
+http://iptvnation.com/porn/video.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 2
+http://panel.globepremium.com:8000/SxXGeIIQwH/IoVV9K9Jnq/22977
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 4
+http://giantofthefuture.gleeze.com:8880/rufino/12345/1455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 5
+http://jedicctv.net:8080/craigginnes@hotmail.com/RYd7tSNdJw/123010
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 6
+http://iptvtool.es:9977/davidd/iptv/52976
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 8
+http://ok2.se:8000/live/nsOH55AgmB/OpJ8qT8Sbn/40956.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/0e5f34-e10fdda45dd24f7c851c88a26f340c27-mv2.png" group-title="Bosna i Hercegovina",  Primera Music
+http://178.132.6.97:8080/PrimeraMusic1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTRS-Logo-svg.png" group-title="Bosna i Hercegovina",  RTRS
+http://178.132.6.97:8080/RTRS1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/WorldFishingNetwork.jpg" group-title="Sport",  Fishing Network
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/DiscoveryFamilylogo.png" group-title="Dokumentarni",  Discovery Family
+http://iptv-area-51.tv:2095/live/nativetidu/8Remedy98/12487.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 12
+http://azaad4you.ddns.net:8000/9906824548468/9906824548468/10672
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 13
+http://ok2.se:8000/live/bXKZ28DiAX/TDzeyLXnH1/40956.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 14
+http://ok2.se:8000/live/iowQaPhuzX/nBklFEzHRw/40956.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 17
+http://secure.serkom.eu:80/sinanay/ay295345/28481
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 20
+http://tv.trexiptv.com:8000/raaf/raaf/15705
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 21
+http://panel.globepremium.com:8000/SxXGeIIQwH/IoVV9K9Jnq/1122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 23
+http://e2.iudtv.org:8080/carlos12/123456/281
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 24
+http://tv.justcccam.info:8080/U0uy5n0afE/PVJU5kJy8E/2413
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 25
+http://tv.trexiptv.com:8000/volker/1234/15705
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST",  Test 27
+http://iptv.jinbox.nl:1339/gurkan/gurkan1/405
+
