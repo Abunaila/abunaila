@@ -1,0 +1,527 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AF: Afghanistan",  AF: AL KASS SPORTS 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AF: Afghanistan",  AF: KTV SPORT
+http://www.elahmad.com/tv/m3u8/ktv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia",  AR: ABU DHABI SPORTS 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia",  AR: ABU DHABI SPORTS 1 (1+) HD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia",  AR: ABU DHABI SPORTS 1 (2+) HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia",  AR: ABU DHABI SPORTS 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia",  AR: ABU DHABI SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia",  AR: ABU DHABI SPORTS 2 (1+) HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia",  AR: ABU DHABI SPORTS 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AR: Arabia",  AR: DUBAI SPORTS HD
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IN: India",  IN: DONBAS TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IT: Italy",  IT: IRC SPORT TV
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IT: Italy",  IT: RTV SAN MARINO SPORT
+http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IT: Italy",  IT: TELEARENA (1+)
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IT: Italy",  IT: TELEROMAGNA SPORT
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT: Portugal",  PT: ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SP: Spain",  SP: FIGHT TIME
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UA: Ukraine",  UA: DONBAS
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UA: Ukraine",  UA: XSPORT
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: AT THE RACES (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6661.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BIKE
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6653.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BOX NATION (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15783.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT 1 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6649.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT 2 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/66753.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT ESPN HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15738.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT ESPN (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6643.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT EUROPE
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6642.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT EXTRA 1
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6641.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT EXTRA 2 (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6640.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT EXTRA 3 (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7918.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORT EXTRA 4 (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7917.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORTS 1 (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6646.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORTS 2 (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/66532.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORTS 3 (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6647.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: BT SPORTS 3
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6644.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: CHELSEA FC
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6631.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: CHELSEA TV HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15772.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EIR SPORT 1 (2+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6612.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EIR SPORT 2
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6611.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ELEVEN SPORT 1 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/51927.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ELEVEN SPORT 2 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/51926.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ELEVEN SPORT 3 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/51925.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ELEVEN SPORT 4 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/51924.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ELEVEN SPORT 5 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/51923.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ELEVEN SPORT 6 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/51922.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ELEVEN SPORTS 1 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53155.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ELEVEN SPORTS 2 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53154.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: ESPN
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6610.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EUROSPORT 1 (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15736.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EUROSPORT 1
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6609.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EUROSPORT 1 PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7519.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EUROSPORT 2 (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15735.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EUROSPORT 2 (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6608.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EUROSPORT 2 PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7518.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: EUROSPORT NEWS PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7517.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: FIGHT NETWORK PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/12519.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: KOMBAT SPORTS PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8793.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: LIVERPOOL FC
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6584.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: MOTORS TV HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6580.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: MOTORS TV PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7508.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: MOTORVISION PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7507.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: MUTV HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/12852.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: MUTV (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15813.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: NBA TV PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8799.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: PREMIER SPORTS HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7915.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: PREMIER SPORTS 2
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6568.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: RACING HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15795.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: RACING (2+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6566.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS ACTION (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7920.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS ARENA HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7926.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS ARENA (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15710.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS BOX OFFICE LIVE DURING EVENTS ONLY
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/625252.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS CRICKET (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7929.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS CRICKET (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15709.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS CRICKET (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/79221.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS F1 (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6535.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS F1 (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15708.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS F1 (2+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6536.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS FOOTBALL HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/625255.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS FOOTBALL (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/625258.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS FOOTBALL (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53165.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS GOLF HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15704.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS GOLF (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15705.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS GOLF (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/9536.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS MAIN EVENT (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15703.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS MAIN EVENT (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53277.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS MIX HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7925.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS MIX (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6534.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AF: Afghanistan",  AF: KTV SPORT
+http://www.elahmad.com/tv/m3u8/ktv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS PREMIER LEAGUE (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15700.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS THE OPEN HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7928.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SKY SPORTS THE OPEN
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/625251.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 1 ALT PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13096.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 1 LBR PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13095.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 1 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8818.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 1 PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13097.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 2 LBR PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13092.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 2 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7481.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 2 PT (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8814.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 2 PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13093.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 3 LBR PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13090.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 3 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8813.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 3 PT (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8817.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 3 PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7480.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 3 PT (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13091.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 4 LBR PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13088.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 4 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7479.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 4 PT (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8816.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 4 PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13089.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 5 LBR PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13086.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 5 PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7478.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 5 PT (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8812.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV 5 PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13087.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV PT HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/8815.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV PT (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13094.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK: United Kingdom",  UK: SPORT TV PT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7477.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: AFN SPORT 1
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14395.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: AFN SPORTS HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4928.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: AFN SPORTS (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14412.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: AFN SPORTS 2 (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4927.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: AUTOMOTO TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: BEIN SPORTS (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4902.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: BEIN SPORTS (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13759.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: BIG TEN
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6361.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: BTN SPORT
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4884.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: BYU SPORTS TV (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4910.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: CBS SPORTS NETWORK (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14385.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14363.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN (2+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4937.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN 1
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14405.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN 2 (3+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4936.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN 2 (4+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13749.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN 2 (1+)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN 3 (1+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6708.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN NEWS (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4935.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN PLUS
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6707.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: ESPN U (2+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/33498.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FIGHT NETWORK HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13748.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14562.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS 1 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/137256.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS 1 (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/494720.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS 1
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/63735.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS 2 (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/494259.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS 2
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/63365.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS 506 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4944.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS NORTH HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14355.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: FOX SPORTS RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: GOLF (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6340.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: MLB NETWORK (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14402.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: MLB NETWORK (2+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4868.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NBA (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14338.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NBA TV (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6355.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NBC GOLF (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4953.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NBC GOLF (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13753.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NBC GOLF (2+)
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14410.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NBC SPORT (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4952.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NBC SPORTS NETWORK (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14403.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NFL HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4917.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NFL (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6345.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NFL NETWORK (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14329.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NFL REDZONE HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53157.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: NHL NETWORK (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14409.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: PAC-12 LOS ANGELES HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13737.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: PAC-12 OREGON HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13752.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: PAC-12 WASHINGTON HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13736.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: SPORTS NET 360 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4915.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: SPORTS NET ONE HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4916.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: SPORTS NET ONTARIO HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14317.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: SPORTS NET WEST HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/4861.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: SPORTSNET 360 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14388.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: TENNIS (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7084.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="US: United States",  US: UFC FIGHT PASS LIVE EVENTS ONLY
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/16617.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WW: World Wide",  WW: FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
