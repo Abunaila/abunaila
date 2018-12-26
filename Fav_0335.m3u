@@ -1,0 +1,263 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ortas.gov.sy/archive/news/n1502280387.png" group-title="Drama", Syria Drama
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/41-MBC1-HD.png" group-title="Drama", MBC1 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/mm/mbc_drama_ae_hd.png" group-title="Drama", MBC Drama HD
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/44-MBC4-HD.png" group-title="Drama", MBC4 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="Drama", MBC +drama
+http://212.224.72.194:2200/TR/mbcplusdramahd-ar/index.m3u8?token=WbJL7LcL3rjxpDJa&sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="Drama", MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_535.png" group-title="Drama", Rotana Classic
+http://streaming.i-sat.tv:1935/livestream/rtca/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://krmalk.tv/video/uploads/thumbs/85617e5b1-1.jpg" group-title="Drama", MBC  variety hd
+http://212.224.72.199:2200/TR/mbcvarietyhd-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa&sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.goldtv.tv/icons/rotana-drama.png" group-title="Drama", Rotana Drama
+http://streaming.i-sat.tv:1935/livestream/rotanamasr/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="Drama", Rotana Aflam
+http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tunisvista.com/medias/nile-cinema-tv-live-online-streaming-egypt.jpg" group-title="Drama", Nile Cinema
+http://streaming.i-sat.tv:8081/livestream/nilecinema/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/2606/extra_big_logo.png" group-title="Drama", Rotana Khalejeh
+http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Al_Aan_TV_Logo.png/150px-Al_Aan_TV_Logo.png" group-title="Drama", Al Aan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://roya.tv/img/royatv/royaTvLogo.png" group-title="Drama", Roya TV
+http://streaming.i-sat.tv:1935/livestream/Roya/chunklist_w949884112.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/cc/cbc_eg_drama.png" group-title="Drama", cbc Drama
+http://streaming.i-sat.tv:1935/livestream/cbc/chunklist_w2076415437.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://storage.googleapis.com/cbc-assets/assets/images/uploads/news/7310ba3b-8149-4a79-8811-ec999541d634.jpg" group-title="Drama", cbc
+http://streaming.i-sat.tv:1935/livestream/cbcone/chunklist_w1098438708.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61ijw5fFbBL.png" group-title="Drama", cbc Sofra
+http://streaming.i-sat.tv:1935/livestream/csofra/chunklist_w1387938238.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Drama", cbc Drama YouTube
+https://www.youtube.com/watch?v=U3bKAh7yGt4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tunisvista.com/medias/al-nahar-drama-tv-live-online-streaming-egypt.png" group-title="Drama", Al Nahar drama
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlNaharTV.png" group-title="Drama", Al Nahar TV
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ulango.tv/uploads/channels/3709/logo_zee%20alwan.png" group-title="Drama", Zee Alwan
+http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/03/13/tv%20gec.jpg" group-title="Drama", Zee Aflam
+http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oklivetv.com/wp-content/uploads/media/58d1ff48af611ec941e608c4ae0a14df.jpeg" group-title="Drama", Abu Dhabi Drama
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Abu_Dhabi_Al_Oula_logo.png/200px-Abu_Dhabi_Al_Oula_logo.png" group-title="Drama", Abu Dhabi
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/dubaitv.png" group-title="Drama", DUBAI TV
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/aa/abu_dhabi_al_emarat.png" group-title="Drama", Abu Dhabi Alemarat
+http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/6CRmc_4zkUA/hqdefault.jpg" group-title="Drama", Sama DUBAI
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://4.bp.blogspot.com/-aq3zze_Q_pg/WUb2ER-p97I/AAAAAAAAG3I/4RVxdbhT5uU9g1jWae__agxgGtiagwcywCLcBGAs/s1600/dubai_ae_zaman.png" group-title="Drama", DUBAI zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Drama", Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Drama", Fashion HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?sd=10&rebase=on
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/43-MBC3-HD.png" group-title="Kids", MBC3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="Kids", Baraeim tv
+http://livecdnh2.tvanywhere.ae/hls/baraeim/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/JeemTV-1.png" group-title="Kids", Jeem tv
+http://livecdnh2.tvanywhere.ae/hls/jeem/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.appshopper.com/icons/106/9646016_larger.png" group-title="Kids", Toyour AlJana
+http://199.167.151.237:1935/live/sp15_12.stream/gmswf.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ss/sat7_kids.png" group-title="Kids", SAT 7 Kids
+http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist_w676907588_b1000000.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", Spacetoon2
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w2129290003_b346000_slAR.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.iheartmovie.com/assets/20170905182124609167228.jpg" group-title="Kids", BABY TV
+http://cdn2.bear-tv.com/freetv/TOT_babytv/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://hugetv.org/wp-content/uploads/2016/01/smile_of_child_tv.png" group-title="Kids", Smile Of Child
+https://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/index_1728_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/aitc53snufk8ks4sg.png" group-title="Kids", NICK JR
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_eng/playlist.m3u8?sd=10&rebase=on
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="Movies", Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/42-MBC2-HD.png" group-title="Movies", MBC2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="Movies", cin1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/48-MBC-Max-HD.png" group-title="Movies", MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/49-MBC-Action-HD.png" group-title="Movies", MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://iptv.mellitv.com/channels/logo/ifilm-engiish.png" group-title="Movies", ifilm TV
+http://mn-nl.mncdn.com/ifilm/smil:ifilmar.smil/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="Movies", Dubai One
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://2.bp.blogspot.com/-X-nTcvHTX4Y/UmpgzyF-0fI/AAAAAAAABME/7H2mnHTQ_uc/s1600/foxcrime.png" group-title="Movies", FOX Crime
+http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies", Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", And FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v2a1/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.adgully.com/img/800/201803/prive.jpg" group-title="Movies", And Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/711_300.png" group-title="Movies", Fox Life EN
+http://cdn2.bear-tv.com/freetv/TOT_foxlife/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doohdbox.com/assets/201707090903391006795571.jpg" group-title="Movies", THRILL EN
+http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", FOX Thai ENG
+http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg" group-title="Movies", FX
+http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg" group-title="Movies", BYUtv (US)
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8?sd=10&rebase=on
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oklivetv.com/wp-content/uploads/media/e40335184683995060e68f97e966b94d.jpeg" group-title="Religius", ABN
+http://rtmp1.abnsat.com/hls/arabic.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://3.bp.blogspot.com/-zCR9c7Oq6kY/Uadg38C99WI/AAAAAAAAAUE/mnhnHH16tKk/s320/Alhayat+Christian+TV.jpg" group-title="Religius", AL HAYAT
+http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/chunklist_w1985681440_b1191936.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.freeetv.com/images/01_logo/aghapy_tv.jpg" group-title="Religius", Aghapy TV COPTIC
+http://68.235.60.118:1935/aghapy.tv/aghapy.smil/chunklist_w1401864991_b1400000_slar_t64SEQ=.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://4.bp.blogspot.com/-x3EW5XcW0DI/UcA1lCp2jaI/AAAAAAAAAV4/-ihbrQb2pGw/s180-c/CTV_Channel.jpg" group-title="Religius", CTV COPTIC
+http://media6.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Religius", CYC Egypt TV
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w1172719868.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://live.miraclechannel.com/images/logo.png?55f5633" group-title="Religius", Miracl Channel
+http://yjh3p.stream.miraclechannel.com/hls/miracle1_high/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://4.bp.blogspot.com/-yGH6llWlQ3c/UaDUwx1sAUI/AAAAAAAAATQ/wx4IKe4cEjk/s320/AlkarmaTVLogo.jpg" group-title="Religius", AlKarma TV 1
+http://flash.alkarmatv.com:1935/karmatv_na/smil:karmatv_na.smil/chunklist_w216466657_b2500000_slen.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1.bp.blogspot.com/-As0YXr0hlG0/UigAsD2KRPI/AAAAAAAAAeY/7qs-rrXsegs/s180-c/373502_212748325406418_346667637_n.jpg" group-title="Religius", Coptic Sat
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Religius", AL Keraza
+http://media4.smc-host.com:1935/alkerazatv.org/alkerazatv.smil/chunklist_w2092658124_b400000_t64SEQ=.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://4.bp.blogspot.com/-yGH6llWlQ3c/UaDUwx1sAUI/AAAAAAAAATQ/wx4IKe4cEjk/s320/AlkarmaTVLogo.jpg" group-title="Religius", AlKarma TV 2
+http://flash.alkarmatv.com:1935/karmatv_me/smil:karmatv_me.smil/chunklist_w950108374_b2400000_slen.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://2.bp.blogspot.com/-B-IZWEc-8WU/UYCF_sQ-xRI/AAAAAAAAAQU/itE05WhdawM/s320/4thekingdomsatfinallogo.jpg" group-title="Religius", AL Malakoot
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/chunklist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/AlFadyTV.png" group-title="Religius", AL FADY
+http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w1028709664.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://ulango.tv/uploads/channels/3783623/logo_al%20horreya%20tbn%20arabic.png" group-title="Religius", Alhorreya
+http://68.235.35.227:1935/alhorreya.tv/alhorreya.smil/master.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1.bp.blogspot.com/-fr7S5KqUSNE/UYB4HCrer9I/AAAAAAAAAPk/xJrvoifTyU0/s320/altarek.png" group-title="Religius", AL Tarek
+http://videos.atvsat.com:1935/atvsatlive/smil:atvsatlive.smil/chunklist_w2060485934_b1600000_slen.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/691984605688238080/86A8f9JN_400x400.jpg" group-title="Religius", Al Waad
+http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master_Layer4.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://2.bp.blogspot.com/-S77FoRzSr3w/VKh8G8IGtUI/AAAAAAAAA5A/_czI0N4hMFk/s320/10712590_838371546214467_2005598782445772134_o.jpg" group-title="Religius", Logos
+http://66.165.251.10:1935/logoschannel.com/logostv.smil/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sat7uk.org/wp/wp-content/uploads/2016/05/Sat-7_Logo-sq.jpg" group-title="Religius", SAT 7
+http://unirtmp.tulix.tv:1935/sat7arabic/satarabiclive-web.smil/chunklist_w1607001840_b1000000.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" group-title="Religius", Elbeshara Tv
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/chunklist_w783296947_b1400000_slar_t64SEQ=.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://noursat.tv/mediafiles/channels/noursat-small.png" group-title="Religius", Nour Sat
+https://svs.itworkscdn.net/nour4satlive/livestream/chunklist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://noursat.tv/mediafiles/channels/shabab-small.png" group-title="Religius", NourSat AlShabab
+https://svs.itworkscdn.net/nour3satlive/livestream/chunklist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://noursat.tv/mediafiles/channels/music-small.png" group-title="Religius", NourSat MUSIC
+https://svs.itworkscdn.net/nour5satlive/livestream/chunklist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://noursat.tv/mediafiles/channels/koddass-small.png" group-title="Religius", NourSat AlKoddas
+https://svs.itworkscdn.net/nour1satlive/livestream/chunklist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://noursat.tv/mediafiles/channels/spirit-small.png" group-title="Religius", NourSat Spirt
+https://svs.itworkscdn.net/nour6satlive/livestream/chunklist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://noursat.tv/mediafiles/channels/sharq-small.png" group-title="Religius", NourSat AlSharq
+https://svs.itworkscdn.net/nour8satlive/livestream/chunklist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://karwan.tv/images/tv/suboro-tv.png" group-title="Religius", Suboro Tv
+https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/chunklist_w485441811_b900000.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://noursat.tv/mediafiles/channels/mariam-small.png" group-title="Religius", NourSat Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/chunklist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_K-TV.svg/1280px-Logo_K-TV.svg.png" group-title="Religius", K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.netzwelt.de/dw236_dh236_sw0_sh0_sx0_sy0_sr1x1_nu0/picture/original/2015/06/senderlogo-bibeltv-164011.png" group-title="Religius", BIBEL TV
+https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/2f/ERF_1_Logo_2011.png/1200px-ERF_1_Logo_2011.png" group-title="Religius", ERF 1
+https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8?sd=10&rebase=on
+
