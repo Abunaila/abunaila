@@ -1,0 +1,382 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/SNTV_LOGO.png" group-title="Groups", SNTV
+http://199.167.151.237:1935/live/sp15_19.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/SLNTV_LOGO.png" group-title="Groups", SLNTV
+http://199.167.151.237:1935/live/sp15_21.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://3.bp.blogspot.com/-b5wkaLiUBaQ/WVPMp05SrcI/AAAAAAAAHhg/J9Bd5CPxQqE5UpgjhJ7hJVORFYotNgIFQCLcBGAs/s1600/sudan_tv.png" group-title="Groups", Sudan TV
+http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="Groups", RTV
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.giniko.com/logos/190x110/219.jpg" group-title="Groups", ESTV
+http://199.167.151.237:1935/live/sp15_5.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/Toyor al jannah_Logo.png" group-title="Groups", Toyor Al Janah TV
+http://199.167.151.237:1935/live/sp15_12.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="Groups", TV Africa 
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="africatv", Africa TV 2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?wowzasessionid=701289473
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="africatv", Africa TV 3
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8?wowzasessionid=34834962
+
+#EXTINF:-1  group-title="RELIGION",  MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1  group-title="RELIGION",  MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/ZEE WORLD_LOGO.png" group-title="ZEE WORLD", ZEE WORLD
+http://z5ams.akamaized.net/world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/cc/colors_in.png" group-title="ZEE WORLD", COLORS
+http://103.205.133.43/hls/colors.m3u8
+
+#EXTINF:-1 tvg-logo="https://theeagleonline.com.ng/wp-content/uploads/2018/08/Zee-World-Logo-480.jpg" group-title="USA TV",US : ZEE WORLD
+http://161.0.157.6/PLTV/88888888/224/3221226542/index.m3u8
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/587586043626393600/rXsu0Mb6_400x400.png" group-title="Entertainment", & TV
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png" group-title="Entertainment", & TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3j9VWa.png" group-title="Entertainment", Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWIknEr.jpg" group-title="Entertainment", Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FidIz1G.jpg" group-title="Entertainment", Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cablekiller.com/images/logoBig.png" group-title="Entertainment", Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CCgaMLJ.jpg" group-title="Entertainment", Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Colors
+http://103.205.133.43/hls/colors.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/DDSahyadriLogo.jpg" group-title="Entertainment", DD Sahyadri
+http://z5ams.akamaized.net/ddsahyadri/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8a/e9/3d/8ae93da24c1ce2546ad48991a4df5f4b.png" group-title="Entertainment", Deepam TV
+http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wregrJk.jpg" group-title="Entertainment", Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" group-title="Entertainment", Flowers TV
+http://z5ams.akamaized.net/flowerstv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jugnitv.com/static/front/images/channel_logo/f3de7c09000880c4b818d0284612101b_v.png" group-title="Entertainment", Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/8/854.1501937948.png" group-title="Entertainment", IBC Tamil Comedy
+https://59299831b66d0.streamlock.net/ibc-comedy/smil:ibccomedy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/8/854.1501937948.png" group-title="Entertainment", IBC Tamil Music
+https://59299831b66d0.streamlock.net/ibc-music/smil:ibcmusic.smil/chunklist_w302513134_b1344100_slEN.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" group-title="Entertainment", Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://tugu.stream/wp-content/uploads/2017/10/Jonack.png" group-title="Entertainment", Jonack TV
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zaL7wco.jpg" group-title="Entertainment", Jujhar TV
+http://172.104.54.227:1935/capco/jujhartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkWp5My.jpg" group-title="Entertainment", Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://livetv.freeiptv.in/image.php?img=images/Madhimugam_TV.png" group-title="Entertainment", Madhimugam TV
+http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HgvwhNx.png" group-title="Entertainment", Mahua Plus
+http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Makkal TV
+http://z5ams.akamaized.net/makkaltv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/orangemedianetwork.com/content/tncms/custom/image/07eea8a4-e1f7-11e6-8596-3bb1e3c02596.png" group-title="Entertainment", Media Orange
+http://150.242.21.2/mediaorange.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/bWdydHYubWdydHZfaWNvbl8xNTIyNDcwODU1XzA2MQ/icon.png?w=170&fakeurl=1&type=.png" group-title="Entertainment", MGR TV HD
+http://livematrix.in:1935/live/mgrtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2017/10/Netrikan-TV.jpg" group-title="Entertainment", NettriKann TV
+http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ngbHpPd.jpg" group-title="Entertainment", OTV
+http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Raj TV
+http://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Saam TV
+http://8ovgdkm5rmpw-hls-live.wmncdn.net/31/saam/live.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sabrang.com.au/wp-content/uploads/2017/11/sabrang-channel-transparent-2.png" group-title="Entertainment", Sabrang TV
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viRVMKh.png" group-title="Entertainment", Sangamam HD
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/29074612SKTAT%20TV.png" group-title="Entertainment", SKTAT TV
+http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLq17Q8.jpg" group-title="Entertainment", SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Star Plus
+http://103.205.133.43/hls/starplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.subrangtv.com/wp-content/uploads/2017/03/custom-logo.jpg" group-title="Entertainment", Subrang TV USA
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180331/xhw/kisspng-sri-lanka-tamil-nadu-dravidian-languages-tamil-5abf5f2d432d16.3961345915224911812752.jpg" group-title="Entertainment", Tamil TV
+http://150.242.21.2/tamiltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2d7xd1owstlh.cloudfront.net/static/2/Open/Samsung_Logos_1845/Source/13064/TamilVision.png" group-title="Entertainment", Tamil Vision HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tamilan24.com/assets/img/section/events.png" group-title="Entertainment", Tamilan24
+http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Entertainment", Tamilian Television
+http://8ovgdk34qmpw-hls-live.wmncdn.net/307/tamilan/live.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="Entertainment", Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="Entertainment", TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpunjab.com/wp-content/uploads/2017/03/final-logo1-web-tv-punjab-1.png" group-title="Entertainment", TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVDzRTu.jpg" group-title="Entertainment", Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Vani TV
+http://150.242.21.2/vanitv.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Vissa TV
+http://z5ams.akamaized.net/vissatv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Zee Anmol
+http://z5ams.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Zeebanglalogo.png" group-title="Entertainment", Zee Bangla
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Zee Bangla HD
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/170x170/zeecafehd_1363288667.png" group-title="Entertainment", Zee Cafe HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Zee-Kannada-Logo.png" group-title="Entertainment", Zee Kannada
+http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ZEEMagicLogo.jpg" group-title="Entertainment", Zee Magic
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/54016/zeemarathi.png" group-title="Entertainment", Zee Marathi
+http://z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png" group-title="Entertainment", & TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3j9VWa.png" group-title="Entertainment", Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWIknEr.jpg" group-title="Entertainment", Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FidIz1G.jpg" group-title="Entertainment", Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+
+#EXTINF:-1  group-title="Entertainment", Zee Tamil
+http://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="Entertainment", Zee TV
+http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="Entertainment", Zee TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/nrepl.in/wp-content/uploads/2017/11/ZY.jpg" group-title="Entertainment", Zee Yuva
+http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_bq9t8OV2UvSRzs-XAJMWw-DJt9mpO9HTGDyntvJLnGkWrnV" group-title="Entertainment", Bollywood Masala TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD191L720P/chunklist_b700000.m3u8|Referer=http://zengatvplayer.s3-website-ap-southeast-1.amazonaws.com/
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="Movies", & Flix
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/%26flix_HD.jpg/revision/latest?cb=20180624154104" group-title="Movies", & Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvnews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" group-title="Movies", & Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="Movies", & Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="Movies", Pitaara
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png" group-title="Movies", Sony Movies
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://livetv.freeiptv.in/image.php?img=images/Zee_Action.png" group-title="Movies", Zee Action
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/170x170/zeecafehd_1363288667.png" group-title="Movies", Zee Cafe
+http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movies", Zee Cinema
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1  group-title="Movies", Zee Cinema HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/%26flix_HD.jpg/revision/latest?cb=20180624154104" group-title="Movies", & Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvnews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" group-title="Movies", & Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="Movies", & Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/03/13/tv%20gec.jpg" group-title="Drama",Zee Aflam
+http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3709/logo_zee%20alwan.png" group-title="Drama",Zee Alwan
+http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8?sd=10&rebase=on
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="ISLAM", Al Quran Al Karim (KSA)*
+http://199.167.151.237:1935/live/sp15_14.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="ISLAM", Al Sunnah Al Nabawiyah (KSA)*
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="ISLAM", Al Sunnah Al Nabawiyah (KSA)**
+http://199.167.151.237:1935/live/sp15_31.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.almstba.tv/video/uploads/thumbs/ea76a7e72-1.jpg" group-title="ISLAM", Al Majd Holy Quran (KSA)
+http://199.167.151.237:1935/live/sp15_24.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/cf/Almajd_Hadeeth.jpg" group-title="ISLAM", Al Majd Al Hadith (KSA)
+http://199.167.151.237:1935/live/sp15_32.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://almajdtv.com/images/ch/elmiah.png" group-title="ISLAM", Al Majd Scientific (KSA)
+http://199.167.151.237:1935/live/sp15_29.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8K3xXzq.png" group-title="ISLAM", Makkah TV (KSA)
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8K3xXzq.png" group-title="ISLAM", Makkah TV (KSA)*
+http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="ISLAM", Iqraa (KSA)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
+
+#EXTINF:-1 tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="ISLAM", Iqraa (KSA)**
+http://199.167.151.237:1935/live/sp15_25.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ariase.com/media/television/logo-132x99/iqraa-international.jpg" group-title="ISLAM", Iqraa Int'l (KSA) [EN]
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_america
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZTxP5z.jpg" group-title="ISLAM", Ayaat TV (KSA)
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/noor-dubai-tv-logo.jpeg" group-title="ISLAM", Nour Dubai* (UAE)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+
+#EXTINF:-1 tvg-logo="https://www.islammaps.com/wp-content/uploads/2016/05/Peace-tv.png" group-title="ISLAM", Peace TV English (UAE)
+http://199.167.151.237:1935/live/sp15_3.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Peace_TV_urdu_logo_2015.jpeg" group-title="ISLAM", Peace TV Urdu (UAE)
+http://199.167.151.237:1935/live/sp15_4.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-mFHKUr_Iq0g/VmxwribyMMI/AAAAAAAAB8w/yCj0kzKsOuM/s1600/Peace%2BTV%2BBangla.PNG" group-title="ISLAM", Peace TV Bangla (UAE)
+http://199.167.151.237:1935/live/sp15_2.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Al-Resalah.jpg" group-title="ISLAM", Al Resalah (Kuwait)
+http://199.167.151.237:1935/live/sp15_28.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_al_ethraa.jpg" group-title="ISLAM", KTV Ethraa (Kuwait)
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="ISLAM", Nour El Sham* (Syria)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+
+#EXTINF:-1 tvg-logo="http://www.alrahma.tv/app/Resources/2016/images/logo.png" group-title="ISLAM", Al Rahma TV (Egypt)
+http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-XdHoqcvZQPg/VYv3Pb5b2bI/AAAAAAAAATY/lJIIagpEKOM/s1600/huda%2Btv%2Blogo.png" group-title="ISLAM", Huda TV (Egypt)
+http://199.167.151.237:1935/live/sp15_10.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://tanasuhfoundation.org/logo.png" group-title="ISLAM", Al Tanasuh TV (Libya)
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tanasuhfoundation.org/logo.png" group-title="ISLAM", Al Tanasuh TV* (Libya)
+http://m.live.net.sa:1935/m/tanasuhtv/chunklist_w2048734625.m3u8?v=2545014476
+
+#EXTINF:-1 tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="ISLAM", Tayba TV (Sudan)
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="ISLAM", Tayba TV* (Sudan)
+http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="ISLAM", Al Quran Al Karim (KSA)*
+http://199.167.151.237:1935/live/sp15_14.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="ISLAM", Al Sunnah Al Nabawiyah (KSA)*
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="ISLAM", Al Sunnah Al Nabawiyah (KSA)**
+http://199.167.151.237:1935/live/sp15_31.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.almstba.tv/video/uploads/thumbs/ea76a7e72-1.jpg" group-title="ISLAM", Al Majd Holy Quran (KSA)
+http://199.167.151.237:1935/live/sp15_24.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/cf/Almajd_Hadeeth.jpg" group-title="ISLAM", Al Majd Al Hadith (KSA)
+http://199.167.151.237:1935/live/sp15_32.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://almajdtv.com/images/ch/elmiah.png" group-title="ISLAM", Al Majd Scientific (KSA)
+http://199.167.151.237:1935/live/sp15_29.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8K3xXzq.png" group-title="ISLAM", Makkah TV (KSA)
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8K3xXzq.png" group-title="ISLAM", Makkah TV (KSA)*
+http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
+
+
