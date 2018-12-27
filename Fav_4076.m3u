@@ -1,4 +1,33 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/ktn.jpg" group-title="kenya", KTN HOME
+https://stream-01.ix7.dailymotion.com/dm/3/x6x3cz6/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="kenya", 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/ktn.jpg" group-title="kenya", KTN 
+https://stream-01.dc3.dailymotion.com/dm/3/x6x3cz6/live.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/citizen.jpg" group-title="kenya", Citizen 
+https://vidcdn.vidgyor.com/citizentv-origin/liveabr/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/ntv.jpg" group-title="kenya", NTV
+https://stream-04.dc3.dailymotion.com/dm/3/x6shkab/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/k24.jpg" group-title="kenya", K24
+https://stream-11.ix7.dailymotion.com/dm/3/x6lvncs/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/ebru(46).jpg" group-title="kenya", EBRU 
+https://stream-05.dc3.dailymotion.com/dm/3/x67n3k1/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="kenya", KAMEME TV
+https://stream-12.dc3.dailymotion.com/dm/3/x6ol8sj/live.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/SNTV_LOGO.png" group-title="Groups", SNTV
 http://199.167.151.237:1935/live/sp15_19.stream/gmswf.m3u8
 
