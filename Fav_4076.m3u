@@ -23,7 +23,6 @@ https://stream-12.dc3.dailymotion.com/dm/3/x6ol8sj/live.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/SNTV_LOGO.png" group-title="Groups", SNTV
 http://199.167.151.237:1935/live/sp15_19.stream/gmswf.m3u8
 
