@@ -2,15 +2,11 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/ktn.jpg" group-title="kenya", KTN HOME
 https://stream-01.ix7.dailymotion.com/dm/3/x6x3cz6/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="kenya", 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/ktn.jpg" group-title="kenya", KTN 
 https://stream-01.dc3.dailymotion.com/dm/3/x6x3cz6/live.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/citizen.jpg" group-title="kenya", Citizen 
 https://vidcdn.vidgyor.com/citizentv-origin/liveabr/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Abunaila/abunaila/master/ntv.jpg" group-title="kenya", NTV
 https://stream-04.dc3.dailymotion.com/dm/3/x6shkab/live.m3u8
