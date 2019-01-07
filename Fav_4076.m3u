@@ -404,3 +404,111 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
 
 
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arena_sport_1_srb.png" group-title="Sport",  Arena Sport 1 SRB
+http://46.40.5.99:8000/arena_1_high
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arena_sport_2_srb.png" group-title="Sport",  Arena Sport 2 SRB
+http://46.40.5.99:8000/arena_2_high
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arena_sport_3_srb.png" group-title="Sport",  Arena Sport 3 SRB
+http://46.40.5.99:8000/arena_3_high
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/arena_sport_4_srb.png" group-title="Sport",  Arena Sport 4 SRB
+http://46.40.5.99:8000/arena_4_high
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSRPkiU.png" group-title="SPORTS", Eleven 体育1
+http://wc7.beeyooo.com/tv11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8DJvMe.png" group-title="SPORTS", Eleven 体育2
+http://wc6.beeyooo.com/11sp.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="SPORTS", BT SPORT 3
+http://163.172.86.59:3135/1513/BT/index.m3u8
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/BTSPORT-1-BLACK-RGB.png" group-title="Sport",  BT Sport 1 HD
+http://163.172.86.59:3135/BT1/Stream/index.m3u8?token=OTUyMDQ2YzMxMWIyNDgwY2YzNDAzMzgzOGZlNTVhYWM6MTUzMzg5MDU4Mw==
+
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/sony-ten3.png" group-title="Sport",  SONY TEN3 HD
+http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8?token=MWMyOTBhYmU1YjcyYzVhNTBmMGQzNTM0MmM4ZjE1MTI6MTUzMzg5MDU4Mw==
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Eleven sport hd1
+http://cdn7.woideas.com/tv11.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Eleven sport hd2
+http://cdn6.woideas.com/11sp.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/match_fudbal_1_ru.png" group-title="Sport",  Match Fudbal 1 ru
+http://persik.by/stream/176/296165/10266.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/match_fudbal_2_ru.png" group-title="Sport",  Match Fudbal 2 ru
+http://persik.by/stream/176/296165/10267.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/match_fudbal_3_ru.png" group-title="Sport",  Match Fudbal 3 ru
+http://persik.by/stream/6431/299492/10268.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 1 London
+http://77.226.204.228:25461/test/test/1
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 1 West
+http://77.226.204.228:25461/test/test/11
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 1 South
+http://77.226.204.228:25461/test/test/30
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 1 East
+http://77.226.204.228:25461/test/test/37
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 1 York
+http://77.226.204.228:25461/test/test/40
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 1 NI
+http://77.226.204.228:25461/test/test/26
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 2 NI
+http://77.226.204.228:25461/test/test/24
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 1 Scotland
+http://77.226.204.228:25461/test/test/38
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 2 Scotland
+http://77.226.204.228:25461/test/test/41
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 1 Wales
+http://77.226.204.228:25461/test/test/39
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="test", BBC 2
+http://77.226.204.228:25461/test/test/2
+
+
+
+
+
+
+
+
+
+
+
+
+
