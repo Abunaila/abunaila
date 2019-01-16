@@ -502,6 +502,30 @@ http://77.226.204.228:25461/test/test/2
 
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://mikesandroid.info/UsaLogos/E!%20Entertainment.png" group-title="ENGLISH ( USA )",  US: E! Entertainment
+http://amiptv.ddns.net:25461/live/AM/AM/7293.m3u8
+
+#EXTINF:-1 tvg-logo="http://mikesandroid.info/UsaLogos/E!%20Entertainment.png" group-title="ENGLISH ( USA )",  US: E! Entertainment 2
+http://amiptv.ddns.net:25461/live/AM/AM/20198.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://hostmybuild.com/logos/E!%20entertainment.png" group-title="GSE NO GROUP",  (USA) E! HD
+http://addonfreak.com:8080/live/WHMCSMAG:WHMCS:30956/Vd866k3kSv/8915.m3u8
+
+#EXTINF:-1 tvg-logo="http://hostmybuild.com/logos/1/E!%20CA.png" group-title="GSE NO GROUP",  E!
+http://addonfreak.com:8080/live/WHMCSMAG:WHMCS:30956/Vd866k3kSv/34846.m3u8
+
+#EXTINF:-1 tvg-logo="http://149.202.206.141:7070/logo/UK-E!.png" group-title="GSE NO GROUP",  UK-E!
+http://best4u.tn:8000//live/ale9005/sl6492/2032.m3u8
+
+#EXTINF:-1 tvg-logo="noimg.png" group-title="GSE NO GROUP",  UK: E!.
+http://wweraw.ddns.net:8080/live/medoum1/medoum1/314.m3u8
+
 
 
 
