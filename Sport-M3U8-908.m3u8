@@ -251,7 +251,12 @@ http://77.226.204.228:25461/test/test/39
 http://77.226.204.228:25461/test/test/2
 
 
-
+#EXTINF: -1, Eurosport 1 HD
+#EXTVLCOPT: http-user-agent = smartlabs
+http://91.231.219.145:80/tv_eurosport_1_HD/video.m3u8
+#EXTINF: -1, Eurosport 2 HD
+#EXTVLCOPT: http-user-agent = smartlabs
+http://91.231.219.145:80/tv_eurosport_2_HD/video.m3u8
 
 
 
