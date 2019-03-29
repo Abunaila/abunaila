@@ -1,51 +1,5 @@
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - ELEVEN EXTRA HD
-http://live.kodisolutions.tv:8080/fredf/fredf/26853
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - EUROSPORT FHD
-http://live.kodisolutions.tv:8080/fredf/fredf/26842
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - Eleven HD
-http://live.kodisolutions.tv:8080/fredf/fredf/26852
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - Eleven Sports 1 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/26851
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - Eleven Sports 2 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/26850
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" gr
-oup-title="Sport",  PL - Eleven Sports 3 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/26849
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - Eleven Sports 4 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/26
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - SPORT TV   HD
-http://live.kodisolutions.tv:8080/fredf/fredf/32762
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - SPORT TV  5
-http://live.kodisolutions.tv:8080/fredf/fredf/32764
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - Sport TV  HD
-http://live.kodisolutions.tv:8080/fredf/fredf/32738
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - Sport Tv 1
-http://live.kodisolutions.tv:8080/fredf/fredf/32761
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - SPORT TV 1 FHD
-http://live.kodisolutions.tv:8080/fredf/fredf/32760
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - SPORT TV 1 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/32759
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - SPORT TV 1 HD-
-http://live.kodisolutions.tv:8080/fredf/fredf/32758
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - Sport Tv 2
-http://live.kodisolutions.tv:8080/fredf/fredf/32757
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - SPORT TV 2 FHD
 http://live.kodisolutions.tv:8080/fredf/fredf/32755
 
