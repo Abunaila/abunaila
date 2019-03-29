@@ -1,3 +1,913 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<items>
+
+<playlist_name>
+
+<![CDATA[ MyList top ]]>
+
+</playlist_name>
+
+<channel>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/spidersearch.png ]]>
+
+</logo_30x30>
+
+<title>
+
+<![CDATA[ Поисковик по плейлистам (spider) ]]>
+
+</title>
+
+<tvg-shift>
+
+<![CDATA[ 1 ]]>
+
+</tvg-shift>
+
+<search_on>
+
+<![CDATA[ Начните вводить название плейлиста или адрес ]]>
+
+</search_on>
+
+<playlist_url>
+
+<![CDATA[ http://mylist.obovse.ru/?id=search ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://mylist.obovse.ru/?id=search ]]>
+
+</infolink>
+
+<description>
+
+<![CDATA[
+
+При ранжировании списка учитывается работоспособность ресурса и его популярность в ForkPlayer.<br> - Список составляется автоматически<br> - Чтобы попасть в список необходимо чтобы уже находящийся в рейтинге или проиндексированный (был ранее в рейтинге) плейлист начал ссылаться на ваш ресурс<br> - В список не попадают URL адреса содержащие no_save<br> - Чтобы не попасть в список необходимо хранить ссылку на него в секрете и открывать ее с закладок / стартового меню или переместить по адресу http://yourdomain/path/myfile_<b>no_save</b>.m3u<br> - Чтобы убрать свой плейлист со списка необходимо сменить его адрес и держаться советов выше<br>
+
+]]>
+
+</description>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ YouTube ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[
+
+http://obovse.ru/smarttv/img/youtube.com____200x200.png
+
+]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 35.808 (23.03.2019)<br>URL: http://youtube.com/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://youtube.com/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://youtube.com/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ HDREZKA.AG ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/hdrezka.png ]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 16.295 (23.03.2019)<br>URL: http://hdrezka.ag/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://hdrezka.ag/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://hdrezka.ag/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[
+
+<img src='http://obovse.ru/smarttv/img/list.png' height='22' style='float:right;' ><b>Порталы размещенные на mylist.obovse.ru</b>
+
+]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[
+
+http://wiki.forkplayer.tv/w/resources/assets/wiki.png?8e1f7
+
+]]>
+
+</logo_30x30>
+
+<playlist_url>
+
+<![CDATA[ submenu ]]>
+
+</playlist_url>
+
+<description>
+
+<![CDATA[
+
+Найдено в: http://mylist.obovse.ru<br>* Индекс популярности: 7.331 (24.03.2019)<br>URL: http://mylist.obovse.ru<br><br><img src='http://www.pngall.com/wp-content/uploads/2016/04/Free-Free-Download-PNG.png' height='22' width='20' align=left style='' > Free IPTV /bestlistiptv<br><img src='http://hstatic.net/264/1000055264/10/2016/7-13/free1z.gif' height='22' width='20' align=left style='' > Free IPTV /bestlistiptv/free<br><img src='http://obovse.ru/smarttv/img/portalsstore.png' height='22' width='20' align=left style='' > Portals Store /portals_store<br><img src='http://ottv.tk/public/media/tvset.gif' height='22' width='20' align=left style='' > Free IPTV Portals /bestlistiptv/free/1iptvfree<br><img src='http://i.makeagif.com/media/6-08-2015/wXbTWb.gif' height='22' width='20' align=left style='' > 18 XXX /bestlistiptv/18plus<br><img src='http://obovse.ru/portalimg/nologo.png' height='22' width='20' align=left style='' > alex339 /alex339<br><img src='http://shahdag.az/wp-content/uploads/2015/08/web_camera_PNG7968.png' height='22' width='20' align=left style='' > Веб Камеры МИРА /bestlistiptv/webcamera<br><img src='http://173.249.33.233/kinoboom/logotip/kb.png' height='22' width='20' align=left style='' > КиноBOOM /kb_start<br><img src='http://obovse.ru/smarttv/img/plus.png' height='22' width='20' align=left style='' > impireboom - прямая ссылка /impireboom<br><img src='http://trashbox.ru/apk_icons/993026_192.png' height='22' width='20' align=left style='' > КИНОЗАЛ HD /bestlistiptv/film<br><img src='http://195.88.208.101/obovse.ru/portalimg/my-iptv.png' height='22' width='20' align=left style='' > my-iptv.ru /myiptvru<br><img src='http://imboom.tk/logo/IMBOOMLOGO.png' height='22' width='20' align=left style='' > ИмперияBOOM /impireboom/iperiaboom<br><img src='http://195.88.208.101/obovse.ru/portalimg/nologo.png' height='22' width='20' align=left style='' > От Александра /plelist<br><img src='http://c.radikal.ru/c08/1809/a6/7cb5ec794d57.png' height='22' width='20' align=left style='' > UNLIM - ВХОД /officialslynetiptv/premiumluxslynetiptv<br><img src='http://vekart.ucoz.net/logo/gifs/v3.gif' height='22' width='20' align=left style='' > Просто TV /vekart45<br><img src='http://c.radikal.ru/c21/1809/2a/7ff36d260a7d.png' height='22' width='20' align=left style='' > ВХОД /bestlistiptv/premium/1<br><img src='http://cont.ws/uploads/pic/2016/11/premium.png' height='22' width='20' align=left style='' > PREMIUM BEST LiST IPTV - БОЛЕЕ 1000 КАНАЛОВ /bestlistiptv/premium<br><img src='http://crispr.cos.uni-heidelberg.de/CCtop_logo.png' height='22' width='20' align=left style='' > TOP /officialslynetiptv/premiumluxslynetiptv/test?play=inner<br><img src='http://sascha.ucoz.net/logos/60fps.jpg' height='22' width='20' align=left style='' > Отечественное кино /kinoteatr1972/otechestvokino<br><img src='http://195.88.208.101/obovse.ru/ForkPlayer2.5/img/plus.png' height='22' width='20' align=left style='' > iptvrustam /iptvrustam
+
+]]>
+
+</description>
+
+<submenu>
+
+<![CDATA[ Array ]]>
+
+</submenu>
+
+<infolink>
+
+<![CDATA[ http://mylist.obovse.ru ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[
+
+<img src='http://obovse.ru/smarttv/img/list.png' height='22' style='float:right;' >Плейлист от porno-sm Категории Pornhub.com Xvideos.com Xhamster.com Категории porno-smart.ru Категор
+
+]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://porno-smart.ru/images/logo_psmart.png ]]>
+
+</logo_30x30>
+
+<playlist_url>
+
+<![CDATA[ submenu ]]>
+
+</playlist_url>
+
+<description>
+
+<![CDATA[
+
+Найдено в: http://porno-smart.ru<br>* Индекс популярности: 6.783 (26.03.2019)<br>URL: http://porno-smart.ru<br>
+
+]]>
+
+</description>
+
+<submenu>
+
+<![CDATA[ Array ]]>
+
+</submenu>
+
+<infolink>
+
+<![CDATA[ http://porno-smart.ru ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ KINOKRAD ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/KinoKrad__200x200.png ]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 3.107 (23.03.2019)<br>URL: http://kinokrad.net/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://kinokrad.net/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://kinokrad.net/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ BobFilm ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/BobFilm_200x200.png ]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 2.064 (23.03.2019)<br>URL: http://bobfilm.cc/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://bobfilm.cc/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://bobfilm.cc/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ youporn.com ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[
+
+http://cdn1f.static.youporn.phncdn.com/cb/bundles/youpornwebfront/images/l_youporn_black.png
+
+]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 1.974 (23.03.2019)<br>URL: http://youporn.com/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://youporn.com/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://youporn.com/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ ЯП файлы ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/yapfiles.png ]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 1.912 (23.03.2019)<br>URL: http://yapfiles.ru/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://yapfiles.ru/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://yapfiles.ru/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ pornhub.com ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[
+
+https://di.phncdn.com/www-static/images/pornhub_logo_straight.png?cache=2018070901
+
+]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 1.413 (23.03.2019)<br>URL: http://pornhub.com/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://pornhub.com/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://pornhub.com/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[
+
+<img src='http://obovse.ru/smarttv/img/list.png' height='22' style='float:right;' >ОНЛАЙН TV )))) Onliner BELARUS TV UPLINK ТВ Бесплатные YALTA ТВ КИНОТЕАТРЫ ) Новосибирск Сторонн
+
+]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[
+
+http://195.88.208.101/obovse.ru/portalimg/nologo.png
+
+]]>
+
+</logo_30x30>
+
+<playlist_url>
+
+<![CDATA[ submenu ]]>
+
+</playlist_url>
+
+<description>
+
+<![CDATA[
+
+Найдено в: http://nstreamevo.kumuki.com<br>* Индекс популярности: 1.36 (24.03.2019)<br>URL: http://nstreamevo.kumuki.com<br>
+
+]]>
+
+</description>
+
+<submenu>
+
+<![CDATA[ Array ]]>
+
+</submenu>
+
+<infolink>
+
+<![CDATA[ http://nstreamevo.kumuki.com ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[
+
+<img src='http://obovse.ru/smarttv/img/list.png' height='22' style='float:right;' >ottv.tk/xml ottv.tk ottv.tk IPTV_1(1)*ottv.tk (1 iptvfull*ottv.tk*NEW 1230_Rus*ottv.tk*NEW iptvchl_k
+
+]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://ottv.tk/public/media/logo-light.png ]]>
+
+</logo_30x30>
+
+<playlist_url>
+
+<![CDATA[ submenu ]]>
+
+</playlist_url>
+
+<description>
+
+<![CDATA[
+
+Найдено в: http://ottv.tk<br>* Индекс популярности: 1.197 (28.03.2019)<br>URL: http://ottv.tk<br>
+
+]]>
+
+</description>
+
+<submenu>
+
+<![CDATA[ Array ]]>
+
+</submenu>
+
+<infolink>
+
+<![CDATA[ http://ottv.tk ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ HDGOCLUB ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/hdgo.club.png ]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 0.72 (23.03.2019)<br>URL: http://hdgo.club/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://hdgo.club/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://hdgo.club/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ FILMIX ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[
+
+http://obovse.ru/smarttv/img/Filmix.net_200x200.png
+
+]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 0.527 (23.03.2019)<br>URL: http://filmix.me/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://filmix.me/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://filmix.me/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ AMCET.NET ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/amcet.png ]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 0.501 (23.03.2019)<br>URL: http://amcet.net/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://amcet.net/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://amcet.net/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[
+
+<img src='http://obovse.ru/smarttv/img/list.png' height='22' style='float:right;' >Глаз тв Первый канал (ОРТ) Россия 1 ТНТ НТВ Рен ТВ Звезда Дом Кино СТС Lime TV Россия 24 (Вести 24)
+
+]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://sp-social.ru/pic/tv.png ]]>
+
+</logo_30x30>
+
+<playlist_url>
+
+<![CDATA[ submenu ]]>
+
+</playlist_url>
+
+<description>
+
+<![CDATA[
+
+Найдено в: http://sp-social.ru<br>* Индекс популярности: 0.488 (25.03.2019)<br>URL: http://sp-social.ru<br>
+
+]]>
+
+</description>
+
+<submenu>
+
+<![CDATA[ Array ]]>
+
+</submenu>
+
+<infolink>
+
+<![CDATA[ http://sp-social.ru ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[
+
+<img src='http://obovse.ru/smarttv/img/list.png' height='22' style='float:right;' >xshare Тв с интернет ресурс Amateur Много порно Anissa Kate takes ji Anal Party Double Penetration B
+
+]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[
+
+http://smotra.ru/data/img/users_imgs/26508/sm_users_img-58307.png
+
+]]>
+
+</logo_30x30>
+
+<playlist_url>
+
+<![CDATA[ submenu ]]>
+
+</playlist_url>
+
+<description>
+
+<![CDATA[
+
+Найдено в: http://smartportaltv.ru<br>* Индекс популярности: 0.475 (26.03.2019)<br>URL: http://smartportaltv.ru<br>
+
+]]>
+
+</description>
+
+<submenu>
+
+<![CDATA[ Array ]]>
+
+</submenu>
+
+<infolink>
+
+<![CDATA[ http://smartportaltv.ru ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[
+
+<img src='http://obovse.ru/smarttv/img/list.png' height='22' style='float:right;' >IP-TV http://segaz.my1.ru/ Ростелеком Кинозал Плейлист FREE ТВ зал Segaz MoonWalK Плейлисты Сериа
+
+]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://segaz.my1.ru/logo/iptv.png ]]>
+
+</logo_30x30>
+
+<playlist_url>
+
+<![CDATA[ submenu ]]>
+
+</playlist_url>
+
+<description>
+
+<![CDATA[
+
+Найдено в: http://segaz.my1.ru<br>* Индекс популярности: 0.437 (27.03.2019)<br>URL: http://segaz.my1.ru<br>
+
+]]>
+
+</description>
+
+<submenu>
+
+<![CDATA[ Array ]]>
+
+</submenu>
+
+<infolink>
+
+<![CDATA[ http://segaz.my1.ru ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ Twitch ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/twitch_200x200.png ]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 0.426 (23.03.2019)<br>URL: http://twitch.tv/<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://twitch.tv/ ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://twitch.tv/ ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ BELARUS Z ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[
+
+http://ru.flagbox.net/flags/01_flat_res/flat-res-320x240/by.png
+
+]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: http://nstreamevo.kumuki.com/4254/iptv.by.start.xml<br>* Индекс популярности: 0.401 (23.03.2019)<br>URL: http://p.vladna.club/z.m3u<br>
+
+]]>
+
+</description>
+
+<playlist_url>
+
+<![CDATA[ http://p.vladna.club/z.m3u ]]>
+
+</playlist_url>
+
+<infolink>
+
+<![CDATA[ http://p.vladna.club/z.m3u ]]>
+
+</infolink>
+
+</channel>
+
+<channel>
+
+<title>
+
+<![CDATA[ RuTube ]]>
+
+</title>
+
+<logo_30x30>
+
+<![CDATA[ http://obovse.ru/smarttv/img/rutube.png ]]>
+
+</logo_30x30>
+
+<description>
+
+<![CDATA[
+
+Найдено в: Адрес вводился пользователями ForkPlayer вручную в пункте Перейти по адресу<br>* Индекс популярности: 0.339 (23.03.2019)<br>URL: http://rutube.ru/<br>
+
+]]>
+
+</description>
+
+
+
 
 
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
