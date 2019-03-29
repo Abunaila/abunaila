@@ -1,64 +1,4 @@
-#EXTM3U
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  3PM - SKY NET SPORTS 1
-http://live.kodisolutions.tv:8080/fredf/fredf/22694
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  3PM - SKY NET SPORTS 2
-http://live.kodisolutions.tv:8080/fredf/fredf/22693
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  3PM - SKY NET SPORTS 3
-http://live.kodisolutions.tv:8080/fredf/fredf/22692
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  3PM - SKY NET SPORTS 5
-http://live.kodisolutions.tv:8080/fredf/fredf/22690
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  BD - ZEE BANGLA Cinema HD
-http://live.kodisolutions.tv:8080/fredf/fredf/26683
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  BD - ZEE Bangla
-http://live.kodisolutions.tv:8080/fredf/fredf/26684
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  BD - Zee Cinema
-http://live.kodisolutions.tv:8080/fredf/fredf/26682
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  BeIN Sport 12 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/17140
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 10HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12545
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 11 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15655
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 1HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12554
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 2HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12553
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 3HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12552
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 4HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12551
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 5HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12550
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 6HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12549
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 7HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12548
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 8HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12547
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  Bein Sport 9HD
-http://live.kodisolutions.tv:8080/fredf/fredf/12546
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - ELEVEN EXTRA HD
 http://live.kodisolutions.tv:8080/fredf/fredf/26853
@@ -75,11 +15,12 @@ http://live.kodisolutions.tv:8080/fredf/fredf/26851
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - Eleven Sports 2 HD
 http://live.kodisolutions.tv:8080/fredf/fredf/26850
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - Eleven Sports 3 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" gr
+oup-title="Sport",  PL - Eleven Sports 3 HD
 http://live.kodisolutions.tv:8080/fredf/fredf/26849
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PL - Eleven Sports 4 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/26848
+http://live.kodisolutions.tv:8080/fredf/fredf/26
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  PT - SPORT TV   HD
 http://live.kodisolutions.tv:8080/fredf/fredf/32762
