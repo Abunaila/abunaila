@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-	<items>
-<playlist_name><![CDATA[MyList  top  ]]></playlist_name>
+MyList  top  ]]></playlist_name>
 
 <channel><logo_30x30><![CDATA[http://obovse.ru/smarttv/img/spidersearch.png]]></logo_30x30><title><![CDATA[Поисковик по плейлистам (spider)]]></title><tvg-shift><![CDATA[1]]></tvg-shift><search_on><![CDATA[Начните вводить название плейлиста или адрес]]></search_on><playlist_url><![CDATA[http://mylist.obovse.ru/?id=search]]></playlist_url><infolink><![CDATA[http://mylist.obovse.ru/?id=search]]></infolink><description><![CDATA[При ранжировании списка учитывается работоспособность ресурса и его популярность в ForkPlayer.<br>
 	 - Список составляется автоматически<br>
