@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>Channel 1</title>
+			<location>https://pastebin.com/raw/Rh7wt9eE</location>
+		</track>
+		<track>
+			<title>Channel 2</title>
+			<location>https://pastebin.com/Rh7wt9eE</location>
+		</track>
+		<track>
+			<title>Channel 3</title>
+			<location>LISTA_PVR_SIMPLE_CLIENT</location>
+		</track>
+		<track>
+			<title>Channel 4</title>
+			<location>https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_PVR_SIMPLE_CLIENT</location>
+		</track>
+		<track>
+			<title>Channel 5</title>
+			<location>http://bit.ly/LISTA_SSIPTV</location>
+		</track>
+		<track>
+			<title>Channel 6</title>
+			<location>https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_SSIPTV</location>
+		</track>
+		<track>
+			<title>Channel 7</title>
+			<location>https://pastebin.com/raw/pJ8Ecut5</location>
+		</track>
+		<track>
+			<title>Channel 8</title>
+			<location>https://pastebin.com/raw/PdcbWq1R</location>
+		</track>
+		<track>
+			<title>Channel 9</title>
+			<location>#EXTINF:1,abuspo</location>
+		</track>
+		<track>
+			<title>Channel 10</title>
+			<location>https://dl.dropbox.com/s/0tjnfrii0vonbis/abusport-od_yu0k.m3u8</location>
+		</track>
+		<track>
+			<title>Channel 11</title>
+			<location>HOME.txt</location>
+		</track>
+		<track>
+			<title>Channel 12</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/HOME.txt</location>
+		</track>
+		<track>
+			<title>Channel 13</title>
+			<location>#EXTINF:1,abunaila</location>
+		</track>
+		<track>
+			<title>Channel 14</title>
+			<location>http://dl.dropbox.com/s/pbkjbiyp1ciy3yk/abusport-od.m3u                                           </location>
+		</track>
+		<track>
+			<title>Channel 15</title>
+			<location>No1IPTV.txt</location>
+		</track>
+		<track>
+			<title>Channel 16</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/No1IPTV.txt </location>
+		</track>
+		<track>
+			<title>Channel 17</title>
+			<location>albania.txt</location>
+		</track>
+		<track>
+			<title>Channel 18</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/albania.txt                                        </location>
+		</track>
+		<track>
+			<title>Channel 19</title>
+			<location>bosanskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 20</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/bosanskiprogrami.txt                               </location>
+		</track>
+		<track>
+			<title>Channel 21</title>
+			<location>dokumentarniprogrami.xml</location>
+		</track>
+		<track>
+			<title>Channel 22</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/dokumentarniprogrami.xml</location>
+		</track>
+		<track>
+			<title>Channel 23</title>
+			<location>filmskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 24</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/filmskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 25</title>
+			<location>francuskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 26</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/francuskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 27</title>
+			<location>hrvatskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 28</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/hrvatskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 29</title>
+			<location>informativniprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 30</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/informativniprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 31</title>
+			<location>makedonskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 32</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/makedonskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 33</title>
+			<location>muzika-ex-yu.txt</location>
+		</track>
+		<track>
+			<title>Channel 34</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/muzika-ex-yu.txt</location>
+		</track>
+		<track>
+			<title>Channel 35</title>
+			<location>nevena.txt</location>
+		</track>
+		<track>
+			<title>Channel 36</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/nevena.txt</location>
+		</track>
+		<track>
+			<title>Channel 37</title>
+			<location>njemackiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 38</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/njemackiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 39</title>
+			<location>pinkprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 40</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/pinkprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 41</title>
+			<location>poland.txt</location>
+		</track>
+		<track>
+			<title>Channel 42</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/poland.txt</location>
+		</track>
+		<track>
+			<title>Channel 43</title>
+			<location>portugal.txt</location>
+		</track>
+		<track>
+			<title>Channel 44</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/portugal.txt</location>
+		</track>
+		<track>
+			<title>Channel 45</title>
+			<location>prijenosutakmica.xml</location>
+		</track>
+		<track>
+			<title>Channel 46</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/prijenosutakmica.xml</location>
+		</track>
+		<track>
+			<title>Channel 47</title>
+			<location>radio.txt</location>
+		</track>
+		<track>
+			<title>Channel 48</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/radio.txt</location>
+		</track>
+		<track>
+			<title>Channel 49</title>
+			<location>romania.txt</location>
+		</track>
+		<track>
+			<title>Channel 50</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/romania.txt</location>
+		</track>
+		<track>
+			<title>Channel 51</title>
+			<location>rusija.txt</location>
+		</track>
+		<track>
+			<title>Channel 52</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/rusija.txt</location>
+		</track>
+		<track>
+			<title>Channel 53</title>
+			<location>slovenskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 54</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/slovenskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 55</title>
+			<location>spain.txt</location>
+		</track>
+		<track>
+			<title>Channel 56</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/spain.txt</location>
+		</track>
+		<track>
+			<title>Channel 57</title>
+			<location>sportskidogadajiuzivo.xml</location>
+		</track>
+		<track>
+			<title>Channel 58</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/sportskidogadajiuzivo.xml</location>
+		</track>
+		<track>
+			<title>Channel 59</title>
+			<location>sportskiprogrami.xml</location>
+		</track>
+		<track>
+			<title>Channel 60</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/sportskiprogrami.xml                               </location>
+		</track>
+		<track>
+			<title>Channel 61</title>
+			<location>srpskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 62</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/srpskiprogrami.txt                 </location>
+		</track>
+		<track>
+			<title>Channel 63</title>
+			<location>stranamuzika.txt</location>
+		</track>
+		<track>
+			<title>Channel 64</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/stranamuzika.txt</location>
+		</track>
+		<track>
+			<title>Channel 65</title>
+			<location>stranamuzika.xml</location>
+		</track>
+		<track>
+			<title>Channel 66</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/stranamuzika.xml</location>
+		</track>
+		<track>
+			<title>Channel 67</title>
+			<location>stranisportskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 68</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/stranisportskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 69</title>
+			<location>talijanskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 70</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/talijanskiprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 71</title>
+			<location>test.txt</location>
+		</track>
+		<track>
+			<title>Channel 72</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/test.txt</location>
+		</track>
+		<track>
+			<title>Channel 73</title>
+			<location>test2.txt</location>
+		</track>
+		<track>
+			<title>Channel 74</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/test2.txt                                          </location>
+		</track>
+		<track>
+			<title>Channel 75</title>
+			<location>test3.txt</location>
+		</track>
+		<track>
+			<title>Channel 76</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/test3.txt</location>
+		</track>
+		<track>
+			<title>Channel 77</title>
+			<location>test4.txt</location>
+		</track>
+		<track>
+			<title>Channel 78</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/test4.txt</location>
+		</track>
+		<track>
+			<title>Channel 79</title>
+			<location>turkish.txt</location>
+		</track>
+		<track>
+			<title>Channel 80</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/turkish.txt</location>
+		</track>
+		<track>
+			<title>Channel 81</title>
+			<location>ukusprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 82</title>
+			<location>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/ukusprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 83</title>
+			<location>xxxtvprogrami.txt</location>
+		</track>
+		<track>
+			<title>Channel 84</title>
+			<location>http://bit.ly/LISTA_SSIPTV</location>
+		</track>
+		<track>
+			<title>Channel 85</title>
+			<location>https://pastebin.com/raw/B8agfFvj</location>
+		</track>
+		<track>
+			<title>Channel 86</title>
+			<location>https://pastebin.com/raw/merSiWNJ</location>
+		</track>
+		<track>
+			<title>Channel 87</title>
+			<location>https://pastebin.com/merSiWNJ</location>
+		</track>
+	</trackList>
+</playlist>
